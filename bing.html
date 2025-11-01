@@ -235,7 +235,6 @@
                 const responses = await Promise.all([
                     fetch(CONFIG.JSON_PATHS.PG).then(r => r.json()),
                     fetch(CONFIG.JSON_PATHS.PGK).then(r => r.json()),
-                    fetch(CONFIG.JSON_PATHS.PGKB).then(r => r.json())
                 ]);
 
                 questions = [
