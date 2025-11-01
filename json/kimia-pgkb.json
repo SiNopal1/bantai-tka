@@ -1,0 +1,79 @@
+[
+  {
+    "nomor_soal": "3",
+    "bacaan_soal": "Gas nitrogen dioksida yang berwarna merah kecoklatan dapat membentuk reaksi kesetimbangan dengan gas dinitrogen tetraoksida yang tak berwarna dalam suatu wadah tertutup dengan volume tertentu sesuai persamaan termokimia berikut. 2NO2(g) ⇌ N2O4(g) ΔH = –57,20 kJ (Merah coklat) (Tak berwarna) Ketika suhu dinaikkan, warna campuran merah coklat semakin pekat. Gas nitrogen dioksida yang berwarna merah kecoklatan dapat membentuk reaksi kesetimbangan dengan gas dinitrogen tetraoksida yang tak berwarna dalam suatu wadah tertutup dengan volume tertentu sesuai persamaan termokimia berikut. 2NO2(g) ⇌ N2O4(g) ΔH = –57,20 kJ (Merah coklat) (Tak berwarna) Ketika suhu dinaikkan, warna campuran merah coklat semakin pekat. Berdasarkan info dari soal, kelompokkan variabel berikut apakah termasuk ke dalam variabel bebas/terikat/terkontrol! Berdasarkan info dari soal, kelompokkan variabel berikut apakah termasuk ke dalam variabel bebas/terikat/terkontrol!",
+    "topik_soal": "Energetika",
+    "opsi_jawaban": [
+      "Variabel Bebas",
+      "Variabel Terikat",
+      "Variabel Terkontrol"
+    ],
+    "pernyataan": [
+      "Volume",
+      "Suhu",
+      "Warna"
+    ],
+    "jawaban_benar": [
+      "Variabel Terkontrol",
+      "Variabel Bebas",
+      "Variabel Terikat"
+    ]
+  },
+  {
+    "nomor_soal": "11",
+    "bacaan_soal": "Seorang murid akan melakukan eksperimen untuk menghasilkan 1,435 gram AgCl dari larutan AgNO3 dan NaCl melalui reaksi kimia berikut: AgNO3(aq) + NaCl (aq) → AgCl(s) + NaNO3(aq) Terdapat empat botol zat yang berisi dua jenis reaktan dengan dua variasi konsentrasi berbeda untuk masing-masing reaktan. Seorang murid akan melakukan eksperimen untuk menghasilkan 1,435 gram AgCl dari larutan AgNO3 dan NaCl melalui reaksi kimia berikut: AgNO3(aq) + NaCl (aq) → AgCl(s) + NaNO3(aq) Terdapat empat botol zat yang berisi dua jenis reaktan dengan dua variasi konsentrasi berbeda untuk masing-masing reaktan. Murid tersebut melakukan perhitungan untuk menentukan larutan dari botol mana yang akan digunakan dan menentukan jumlah larutannya untuk menghasilkan jumlah zat yang diinginkan. Komposisi mana saja yang dapat menghasilkan tepat 1,435 gram padatan AgCl? Tentukan Tepat atau Tidak Tepat pada pilihan komposisi berikut! (Ar Ag = 108; Ar N = 14; Ar O = 16; Ar Na = 23; Ar N = 14; Ar Cl = 35,5) Murid tersebut melakukan perhitungan untuk menentukan larutan dari botol mana yang akan digunakan dan menentukan jumlah larutannya untuk menghasilkan jumlah zat yang diinginkan. Komposisi mana saja yang dapat menghasilkan tepat 1,435 gram padatan AgCl? Tentukan Tepat atau Tidak Tepat pada pilihan komposisi berikut! (Ar Ag = 108; Ar N = 14; Ar O = 16; Ar Na = 23; Ar N = 14; Ar Cl = 35,5)\n<img alt=\"\" height=\"113\" src=\"/tka/cbt_images/86378_bf8b3bf640685dc0f06224f4de320455.png\" width=\"377\"/>\n<img alt=\"\" height=\"113\" src=\"/tka/cbt_images/86378_bf8b3bf640685dc0f06224f4de320455.png\" width=\"377\"/>",
+    "topik_soal": "Stoikiometri",
+    "opsi_jawaban": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "pernyataan": [
+      "5 mL larutan dari Botol A + 5 mL larutan dari Botol C",
+      "10 mL larutan dari Botol A + 5 mL larutan dari Botol D",
+      "10 mL larutan dari Botol B + 10 mL larutan dari Botol D"
+    ],
+    "jawaban_benar": [
+      "Tidak Tepat",
+      "Tepat",
+      "Tidak Tepat"
+    ]
+  },
+  {
+    "nomor_soal": "14",
+    "bacaan_soal": "Minyak bumi terdiri atas ribuan senyawa hidrokarbon yang sebagian besar bersifat nonpolar dan memiliki titik didih yang berbeda-beda. Proses distilasi fraksional digunakan untuk memisahkan hidrokarbon berdasarkan titik didihnya. Perbedaan titik didih ini tidak hanya ditentukan oleh massa molekul, tetapi juga bentuk molekul, karena bentuk molekul memengaruhi gaya Van der Waals antar molekul. Minyak bumi terdiri atas ribuan senyawa hidrokarbon yang sebagian besar bersifat nonpolar dan memiliki titik didih yang berbeda-beda. Proses distilasi fraksional digunakan untuk memisahkan hidrokarbon berdasarkan titik didihnya. Perbedaan titik didih ini tidak hanya ditentukan oleh massa molekul, tetapi juga bentuk molekul, karena bentuk molekul memengaruhi gaya Van der Waals antar molekul. Berdasarkan informasi tersebut, tentukan Tepat atau Tidak Tepat untuk setiap pernyataan mengenai titik didih dari isomer-isomer hidrokarbon berikut! Berdasarkan informasi tersebut, tentukan Tepat atau Tidak Tepat untuk setiap pernyataan mengenai titik didih dari isomer-isomer hidrokarbon berikut!",
+    "topik_soal": "Struktur dan Sifat Hidrokarbon",
+    "opsi_jawaban": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "pernyataan": [
+      "Titik didih n-butana lebih besar dari titik didih 2-metil-propana.",
+      "Titik didih 2,2-dimetil-propana lebih besar dari titik didih 2-metil- butana.",
+      "Titik didih n-heksana lebih besar dari titik didih 3-metil-pentana."
+    ],
+    "jawaban_benar": [
+      "Tepat",
+      "Tidak Tepat",
+      "Tepat"
+    ]
+  },
+  {
+    "nomor_soal": "17",
+    "bacaan_soal": "Asam cuka (CH3COOH) yang juga dikenal sebagai asam asetat atau asam etanoat adalah senyawa kimia asam organik yang memberikan rasa asam dan aroma khas pada makanan. Selain itu, asam asetat digunakan dalam produksi bahan kimia, seperti anhidrida asetat, aspirin, dan ester. Asam cuka dihasilkan dari fermentasi etanol oleh bakteri asam asetat. Seorang murid melarutkan 0,6 gram asam asetat dalam air sampai volume 1 liter (Ar C = 12; H = 1; O = 16; Ka = 1 10-6). Asam cuka (CH3COOH) yang juga dikenal sebagai asam asetat atau asam etanoat adalah senyawa kimia asam organik yang memberikan rasa asam dan aroma khas pada makanan. Selain itu, asam asetat digunakan dalam produksi bahan kimia, seperti anhidrida asetat, aspirin, dan ester. Asam cuka dihasilkan dari fermentasi etanol oleh bakteri asam asetat. Seorang murid melarutkan 0,6 gram asam asetat dalam air sampai volume 1 liter (Ar C = 12; H = 1; O = 16; Ka = 1 10-6). Berdasarkan data dan informasi dalam soal, tentukan Benar atau Salah pada setiap pernyataan berikut terkait pelarutan asam asetat dalam air! Berdasarkan data dan informasi dalam soal, tentukan Benar atau Salah pada setiap pernyataan berikut terkait pelarutan asam asetat dalam air!",
+    "topik_soal": "Sifat Asam dan Basa",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Nilai pH larutan asam cuka tersebut adalah 4.",
+      "Konsentrasi ion H+ dalam larutan adalah 110-6M.",
+      "Asam asetat terionisasi dalam air sebanyak 1%."
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Salah",
+      "Benar"
+    ]
+  }
+]

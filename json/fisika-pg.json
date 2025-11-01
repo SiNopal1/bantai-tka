@@ -1,0 +1,106 @@
+[
+  {
+    "nomor_soal": "5",
+    "bacaan_soal": "<p> </p> <p>Perhatikan gambar berikut!</p> <p><img alt=\"\" height=\"250\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/93293_75cf9078fd8375cbac9f01d0df41132b.png\" width=\"394\"/></p> <p>Seorang siswa yang tingginya 160 cm berdiri di depan cermin cembung yang mempunyai jarak fokus 16 cm. Dia mengamati bayangan dirinya dalam cermin cembung. Dia melangkah mundur menjauhi cermin sejauh 16 cm, dia kembali melihat bayangan dirinya di cermin. Perbandingan tinggi bayangan sebelum dan sesudah siswa tersebut bergeser adalah ....</p>",
+    "topik_soal": "Menganalisis keterkaitan sifat cahaya dengan peristiwa dalam kehidupan sehari-hari serta penerapannya dalam cermin, lensa, dan alat optik.",
+    "opsi_jawaban": [
+      "<p>1 : 2</p>",
+      "<p>2 : 3</p>",
+      "<p>3 : 4</p>",
+      "<p>4 : 5</p>",
+      "<p>5 : 4</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "6",
+    "bacaan_soal": "<p> </p> <p style=\"text-align: justify;\">Di sebuah laboratorium fisika, dua benda kecil bermuatan listrik diletakkan di atas meja isolator. Peneliti dapat mengatur jarak antara kedua benda menggunakan penggeser, lalu mengukur gaya listrik yang timbul dengan sensor gaya digital.</p> <p style=\"text-align: justify;\">Hasil percobaan kemudian ditampilkan dalam grafik hubungan antara gaya listrik (F) terhadap jarak antar kedua benda (R) berikut ini:</p> <p style=\"text-align: justify;\"><img alt=\"\" height=\"165\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/16247_cc06d5de91a5d3d1aa4788ea3c0cf046.png\" width=\"180\"/></p> <p style=\"text-align: justify;\">Diketahui bahwa muatan pada benda pertama selalu dua kali lebih besar daripada muatan pada benda kedua dan percobaan dilakukan di udara (anggap sama dengan ruang hampa), dengan konstanta Coulomb k = 9.109 Nm2.C-2. Berapakah besar masing-masing muatan listrik tersebut</p>",
+    "topik_soal": "Menganalisis keterkaitan besaran listrik statis dalam peristiwa yang terjadi dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p><img alt=\"\" data-latex=\"{q}_{1}\\, =\\, 0,1\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,2\\, .\\, {10}^{-6}\\, C\" height=\"39\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/16247_508eaf9b7fb3062655e3d1a50633ee7d.png\" width=\"313\"/></p>",
+      "<p><img alt=\"\" data-latex=\"{q}_{1}\\, =\\, 0,2\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,1\\, .\\, {10}^{-6}\\, C\" height=\"39\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/16247_ea9be14eb0a9a04f94c4fba259a22a58.png\" width=\"313\"/></p>",
+      "<p><img alt=\"\" data-latex=\"{q}_{1}\\, =\\, 1,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,5\\, .\\, {10}^{-6}\\, C\" height=\"39\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/16247_69a71dfc72a38e884e696c53b970dd43.png\" width=\"313\"/></p>",
+      "<p><img alt=\"\" data-latex=\"{q}_{1}\\, =\\, 2,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 1,0\\, .\\, {10}^{-6}\\, C\" height=\"39\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/16247_ca5b2e527bdbd7b0117e1dd9f3e801cd.png\" width=\"313\"/></p>",
+      "<p><img alt=\"\" data-latex=\"{q}_{1}\\, =\\, 3,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 1,5\\, .\\, {10}^{-6}\\, C\" height=\"39\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/16247_894f7338a224daab2bf3cca7187f3f49.png\" width=\"313\"/></p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "8",
+    "bacaan_soal": "<p> </p> <p style=\"text-align: justify;\">Perhatikan gambar pipa U berikut ini!</p> <p style=\"text-align: justify;\"><img alt=\"\" height=\"171\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/28914_375257aca64731035c6b292e7968d33d.png\" width=\"241\"/></p> <p style=\"text-align: justify;\">Pipa U mula-mula diisi dengan air yang massa jenisnya 1000 kg.m‑3 kemudian pada salah satu ujung pipa dituangkan zat cair X. Zat cair X tidak bercampur dengan air dan interaksi seluruh zat cair dengan dinding pipa U diabaikan.</p> <p style=\"text-align: justify;\">Jika pipa U dalam keadaan setimbang dengan tinggi zat cair X adalah 12 cm dan tinggi air 8 cm, berapa massa jenis zat X</p>",
+    "topik_soal": "Menerapkan konsep yang berkaitan dengan fluida statis dan dinamis pada teknologi yang dimanfaatkan dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>666,7 kg.m‑3</p>",
+      "<p>750,0 kg.m‑3</p>",
+      "<p>800,0 kg.m‑3</p>",
+      "<p>850,5 kg.m‑3</p>",
+      "<p>900,0 kg.m‑3</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "9",
+    "bacaan_soal": "<p> </p> <p style=\"text-align: justify;\">Sayap suatu pesawat terbang mainan mempunyai luas<img alt=\"\" data-latex=\"{10\\, m}^{2}\" height=\"25\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/41778_e17d19b36c47aa54e28a5b9fb9e4fcc4.png\" width=\"57\"/>dan udara yang mengalir horizontal melalui sayap pesawat terbang sehingga kecepatan di bagian atas sayap pesawat<img alt=\"\" data-latex=\"{40\\, m.s}^{-1}\" height=\"27\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/41778_101340832f0d58d8ae8b4ed70f43a1af.png\" width=\"80\"/>dan bagian bawah sayap<img alt=\"\" data-latex=\"{30\\, m.s}^{-1}\" height=\"27\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/41778_04cddba03be07e712dfac7323bc3cddc.png\" width=\"80\"/>.</p> <p style=\"text-align: justify;\"><img alt=\"\" height=\"169\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/41778_f7f5318b60f8c3ab8b141a077cc633f7.png\" width=\"330\"/></p> <p style=\"text-align: justify;\">Massa jenis udara pada saat itu sebesar<img alt=\"\" data-latex=\"{1,29\\, kg.m}^{-3}\" height=\"25\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/41778_19b167be0233ad973a2e73303195bbc9.png\" width=\"91\"/>, maka besarnya gaya angkat pesawat terbang adalah....</p>",
+    "topik_soal": "Menerapkan konsep yang berkaitan dengan fluida statis dan dinamis pada teknologi yang dimanfaatkan dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>4.515 N</p>",
+      "<p>3.000 N</p>",
+      "<p>1.515 N</p>",
+      "<p>515 N</p>",
+      "<p>0 N</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "10",
+    "bacaan_soal": "<p> </p> <p style=\"text-align: justify;\">Balok P yang memiliki volume<img alt=\"\" data-latex=\"{200\\, cm}^{3}\" height=\"25\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/66560_aea7a85d9f667a69b388f6d609be4375.png\" width=\"70\"/>terapung di atas suatu zat cair<img alt=\"\" data-latex=\"\\left ( {{\\rho }_{c}={1,3\\, g.cm}^{-3}} \\right )\" height=\"30\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/66560_af03c2ad5c8171a3c2e754880969c877.png\" width=\"130\"/>dengan 1/2 bagian balok muncul di atas permukaan zat cair seperti gambar. Balok P kemudian diikat dengan balok Q menggunakan tali yang massanya diabaikan dan dimasukkan ke dalam zat cair yang sama.</p> <p style=\"text-align: justify;\"><img alt=\"\" height=\"125\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/66560_16e4fd3893961592d67554619b8684e5.png\" width=\"290\"/></p> <p style=\"text-align: justify;\">Massa jenis balok<img alt=\"\" data-latex=\"{Q\\, =\\, 3,9\\, g.cm}^{-3}\" height=\"30\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/66560_fac033236b27e0e9d59b111734029ee1.png\" width=\"135\"/>, massa balok Q yang dibutuhkan agar balok gabungan melayang di dalam zat cair tersebut adalah....</p>",
+    "topik_soal": "Menerapkan konsep yang berkaitan dengan fluida statis dan dinamis pada teknologi yang dimanfaatkan dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>50 g</p>",
+      "<p>130 g</p>",
+      "<p>195 g</p>",
+      "<p>395 g</p>",
+      "<p>520 g</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "12",
+    "bacaan_soal": "<p> </p> <p>Seorang pemain sirkus berjalan di atas seutas tali sambil memegang tongkat panjang yang ujung-ujungnya terkulai ke bawah. Gambar berikut ini memperlihatkan situasi tersebut.</p> <p><img alt=\"\" height=\"270\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/27198_48ac3029613d80a30c0d0659d26d6f90.png\" width=\"430\"/></p> <p>Tongkat panjang yang terkulai ke bawah membantu pemain sirkus menjaga keseimbangan karena tongkat ….</p>",
+    "topik_soal": "Menerapkan konsep momen gaya dan momen inersia yang dimanfaatkan dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>memperbesar gaya berat sehingga pergerakan ke samping menjadi lebih lambat</p>",
+      "<p>menyebabkan pusat massa sistem berada di bawah titik tumpu yang membuat sistem seimbang</p>",
+      "<p>memperbesar gaya gesek antara kaki dan tali sehingga orang dapat bertahan lebih lama di tali</p>",
+      "<p>menarik tubuh ke bawah sehingga tubuh pemain sirkus tidak mudah terangkat</p>",
+      "<p>menambah gaya dorong ke depan agar pemain sirkus dapat lebih mudah dan cepat berjalan</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "17",
+    "bacaan_soal": " <p>Siswa SMA mengukur diameter sebuah bola bekel secara berulang sehingga diperoleh data sebagai berikut. Semua pengukuran dilakukan dengan jangka sorong. Berikut hasil pengukuran yang telah dilakukan.</p> <table style=\"height: 927px; width: 482.406px;\"> <thead> <tr> <td style=\"width: 96.2969px;\"> <p><strong>Pengukuran ke-</strong></p> </td> <td style=\"width: 233.516px;\"> <p><strong>Tampilan Jangka Sorong</strong></p> </td> <td style=\"width: 106.578px;\"> <p><strong>Hasil Pengukuran</strong></p> </td> </tr> </thead> <tbody> <tr> <td style=\"width: 96.2969px;\"> <p> </p> <p> </p> <p style=\"text-align: center;\"><strong>1</strong></p> </td> <td style=\"text-align: center; width: 233.516px;\"> <img alt=\"\" height=\"127\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/66646_9a5ac05893fb3614ba403c557d81189e.png\" width=\"176\"/></td> <td style=\"width: 106.578px;\"> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\">1,06 cm</p> </td> </tr> <tr> <td style=\"width: 96.2969px;\"> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"><strong>2</strong></p> </td> <td style=\"text-align: center; width: 233.516px;\"> <img alt=\"\" height=\"178\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/66646_ef235a3c5b782e62f11d89afd8c27ee4.png\" width=\"179\"/></td> <td style=\"width: 106.578px;\"> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\">1,88 cm</p> </td> </tr> <tr> <td style=\"width: 96.2969px;\"> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"><strong>3</strong></p> </td> <td style=\"text-align: center; width: 233.516px;\"> <img alt=\"\" height=\"162\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/66646_4ea231a28aebabedd6e049bdeec75846.png\" width=\"190\"/></td> <td style=\"width: 106.578px;\"> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\">1,44 cm</p> </td> </tr> <tr> <td style=\"width: 96.2969px;\"> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"><strong>4</strong></p> </td> <td style=\"text-align: center; width: 233.516px;\"> <img alt=\"\" height=\"181\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/66646_1844ed51f8b29fc7bacf1411f286b05e.png\" width=\"201\"/></td> <td style=\"width: 106.578px;\"> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\"> </p> <p style=\"text-align: center;\">1,16 cm</p> </td> </tr> </tbody> </table> <p>Pernyataan berikut yang sesuai dengan pengukuran diameter bola bekel tersebut adalah….</p>",
+    "topik_soal": "Menelaah hasil pengukuran suatu besaran dengan alat ukur yang sesuai serta menyatakan hasil pengukuran sesuai aturan angka penting.",
+    "opsi_jawaban": [
+      "<p>Data yang dihasilkan dapat dipercaya karena pengukuran dilakukan lebih dari satu kali.</p>",
+      "<p>Terdapat hasil pembacaan yang tidak sesuai dengan tampilan jangka sorong sehingga data tidak dapat dipercaya.</p>",
+      "<p>Hasil pengukuran berbeda-beda seperti yang ditunjukkan pada gambar merupakan kewajaran karena bola bekel elastis.</p>",
+      "<p>Pengukuran dilakukan oleh orang yang berbeda sehingga dapat dipastikan hasil pengukurannya juga berbeda.</p>",
+      "<p>Kesimpulan akhir diameter bola bekel dapat dihitung dengan merata-rata seluruh hasil pengukuran.</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "19",
+    "bacaan_soal": " <p>Sebuah bola logam hanya dapat melewati cincin logam jika keduanya berada pada suhu ruang. Gambarnya seperti tampak berikut:</p> <p style=\"text-align: center;\"><img alt=\"\" height=\"167\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/09631_fe0918e77d157f3e7042319caf331567.png\" width=\"270\"/></p> <p>Suatu saat Dita memanaskan bola, bola tidak lagi dapat melewati cincin.</p> <p>Dita kemudian melakukan percobaan baru: ia memanaskan cincin tanpa memanaskan bola. Ia ingin mengetahui apa yang akan terjadi terhadap ukuran lubang cincin.</p> <p>Apa yang akan terjadi terhadap ukuran lubang cincin ketika suhu cincin dinaikkan</p>",
+    "topik_soal": "Menguraikan pengaruh kalor terhadap kenaikan suhu, perubahan wujud zat, serta faktor-faktor yang mempengaruhi perpindahan kalor dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>ukuran lubang berkurang karena cincin mengembang ke arah luar dan menutup lubang.</p>",
+      "<p>ukuran lubang berkurang karena pemuaian membuat cincin menjadi tebal dan padat.</p>",
+      "<p>ukuran lubang tetap sama karena hanya bagian luar cincin yang mengembang..</p>",
+      "<p>ukuran lubang bertambah dan memungkinkan bola kembali bisa melewati cincin.</p>",
+      "<p>ukuran lubang bertambah tetapi cincin akan kehilangan bentuk bundarnya.</p>"
+    ],
+    "jawaban_benar": "D"
+  }
+]

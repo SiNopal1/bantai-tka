@@ -1,0 +1,82 @@
+[
+  {
+    "nomor_soal": "7",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>7</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait persamaan lingkaran dan persamaan garis singgung lingkaran.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>B, E</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Diketahui persamaan lingkaran <img alt=\"\" data-latex=\"{x}^{2}+{y}^{2}-6x-2y-26=0\" height=\"32\" src=\"/tka/cbt_images/50116_4d55d153907bc5f62bdafe56997a7425.png\" width=\"201\"/>. Di antara lima pernyataan berikut, tentukan pernyataan yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "persamaan lingkaran dan persamaan garis singgung lingkaran.",
+    "opsi_jawaban": [
+      "<p>Lingkaran tersebut berpusat di (1, 3).</p>",
+      "<p>Panjang jari-jari lingkaran tersebut 6 satuan panjang.</p>",
+      "<p>Jarak pusat lingkaran dengan sumbu-<img alt=\"\" data-latex=\"x\" height=\"25\" src=\"/tka/cbt_images/50116_8942e852504e3643bf634c418ea22ebe.png\" width=\"36\"/><span style=\"font-family: 'book antiqua', palatino, serif;\"> </span>adalah 3.</p>",
+      "<p>Jarak pusat lingkaran dengan sumbu-<img alt=\"\" data-latex=\"y\" height=\"26\" src=\"/tka/cbt_images/50116_7fbe517896aa2e51c67df243ebd68d81.png\" width=\"37\"/> adalah 1.</p>",
+      "<p>Garis <img alt=\"\" data-latex=\"y=0\" height=\"28\" src=\"/tka/cbt_images/50116_5dc73fa0297f3ef8f9d331c1cd477a40.png\" width=\"62\"/> memotong lingkaran di dua titik.</p>"
+    ],
+    "jawaban_benar": [
+      "B",
+      "E"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "11",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>11</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Aljabar (Materi)<br>\r\nMatriks (Submateri)<br/>\r\nMemahami, mengaplikasikan,  dan  bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait invers matriks</br></td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td> Pernyataan 1, Pernyataan 3, dan Pernyataan 5 </td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p><span style=\"font-family: 'times new roman', times; font-size: 16px;\"><img alt=\"\" height=\"74\" src=\"/tka/cbt_images/90514_7fb2007b8eeb6bf88d49968d0b3c468d.png\" width=\"500\"/></span></p>\n<p><span style=\"font-family: 'times new roman', times; font-size: 16px;\">Pilih semua jawaban benar! Jawaban benar lebih dari satu. </span></p>\n</p>",
+    "topik_soal": "Aljabar (Materi)Matriks (Submateri)Memahami, mengaplikasikan,  dan  bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait invers matriks",
+    "opsi_jawaban": [
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">p = 2 dan q =1</span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">p = 3 dan q = 3</span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">p = 4 dan q = 2</span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">p = 5 dan q = 1</span></p>",
+      "<p><span style=\"font-size: 16px; font-family: 'times new roman', times, serif;\">p = 6 dan q = 3</span></p>"
+    ],
+    "jawaban_benar": ["A", "C", "E"],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "13",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>13</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Geometri dan Pengukuran (Materi )<br>\r\nSubmateri (Vektor)<br>\r\nMemahami,  mengaplikasikan,  dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait operasi vektor</br></br></td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>Pernyataan 1, Pernyataan 2, dan Pernyataan 4</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Diketahui 𝒖,𝒗 dan 𝒘 merupakan tiga vektor dengan 𝒖 = (1,1,−1),𝒗 = (1, 𝑣1, 2) dan 𝒘 = (0,𝑤1,𝑤2). Berapakah nilai 𝑣1 dan 𝑤1 yang mungkin sehingga memenuhi 𝒘 = 𝒖−𝒗?</p>\n<p>Pilih semua jawaban benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Geometri dan Pengukuran (Materi )Submateri (Vektor)Memahami,  mengaplikasikan,  dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait operasi vektor",
+    "opsi_jawaban": [
+      "<p>𝑣1=0 dan 𝑤1 =1.</p>",
+      "<p>𝑣1=1 dan 𝑤1 =0.</p>",
+      "<p>𝑣1=1 dan 𝑤1 =2.</p>",
+      "<p>𝑣1=2 dan 𝑤1 =−1.</p>",
+      "<p>𝑣1=2 dan 𝑤1 =2.</p>"
+    ],
+    "jawaban_benar": ["A", "B", "D"],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "17",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>17</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait invers matriks</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>D dan E</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p><img alt=\"\" src=\"/tka/cbt_images/36997_ec4151abe3c365046e9892ce30488ec3.png\"/></p>\n</p>",
+    "topik_soal": "invers matriks",
+    "opsi_jawaban": [
+      "<p>(1, 2, 2, 3, 2, 3)</p>",
+      "<p>(2, 2, 3, 3, 3, 3)</p>",
+      "<p>(2, 3, 3, 3, 2, 2)</p>",
+      "<p>(2, 3, 3, 3, 2, 3)</p>",
+      "<p>(2, 3, 3, 4, 2, 4)</p>"
+    ],
+    "jawaban_benar": [
+      "D",
+      "E"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "18",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>18</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait pemfaktoran polinomial dan suku sisa</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A, C, dan D</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p><img alt=\"\" height=\"74\" src=\"/tka/cbt_images/95268_39932075eb3711aad846a67059a1355a.png\" width=\"475\"/><br/>Berdasarkan informasi tersebut, pilihlah semua pernyataan berikut yang benar. Jawaban benar lebih dari satu!</p>\n</p>",
+    "topik_soal": "pemfaktoran polinomial dan suku sisa",
+    "opsi_jawaban": [
+      "<p><img alt=\"\" height=\"21\" src=\"/tka/cbt_images/95268_72fb9e76aa330f92ea1a33fb358b189f.png\" width=\"55\"/></p>",
+      "<p><img alt=\"\" height=\"20\" src=\"/tka/cbt_images/95268_e507ef24855b64ce9e0ee90a29f7d51f.png\" width=\"88\"/></p>",
+      "<p><img alt=\"\" height=\"23\" src=\"/tka/cbt_images/95268_5ba38ae4af4710843f956c34ec4532bb.png\" width=\"71\"/></p>",
+      "<p><img alt=\"\" height=\"18\" src=\"/tka/cbt_images/50734_4df6e784cea9fdd57e37541397d1cdff.png\" width=\"315\"/></p>",
+      "<p><img alt=\"\" height=\"22\" src=\"/tka/cbt_images/50734_3c5b4c5239fcfb0e26fe8b364b5b1f86.png\" width=\"313\"/></p><p> </p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "C",
+      "D"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  }
+]

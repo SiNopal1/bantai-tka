@@ -1,0 +1,41 @@
+[
+  {
+    "nomor_soal": "3",
+    "bacaan_soal": "<p>Masyarakat multikultural terdiri atas beragam suku, ras, agama, dan budaya, seperti masyarakat Indonesia yang dikenal kaya akan keberagaman.</p> <p>Manakah contoh penerapan keberagaman masyarakat multikultural yang tepat dalam kehidupan sehari-hari</p>",
+    "topik_soal": "Mengidentifikasi dan menganalisis keberagaman masyarakat Indonesia sebagai masyarakat multikultural.",
+    "opsi_jawaban": [
+      "<p>Tokoh masyarakat menjalankan tradisi lokal sesuai dengan budaya daerahnya.</p>",
+      "<p>Masyarakat adat mengadakan upacara adat sesuai dengan kebiasaan nenek moyang.</p>",
+      "<p>Masyarakat mengenakan pakaian batik dalam peringatan Hari Batik Nasional.</p>",
+      "<p>Warga melakukan kegiatan jual beli di pasar tradisional setiap hari.</p>",
+      "<p>Umat dari agama lain ikut membantu saat perayaan hari besar keagamaan suatu agama.</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "6",
+    "bacaan_soal": " <p>Manakah pernyataan berikut yang paling tepat menggambarkan etnografi sebagai metode penelitian dalam antropologi</p>",
+    "topik_soal": "Menjelaskan konsep etnografi sebagai metode dalam penelitian Antropologi",
+    "opsi_jawaban": [
+      "<p>Etnografi adalah metode eksperimen yang menguji perilaku manusia secara kuantitatif di laboratorium.</p>",
+      "<p>Etnografi adalah metode yang digunakan untuk menganalisis dokumen sejarah secara statistik</p>",
+      "<p>Etnografi adalah metode yang melibatkan peneliti secara langsung dalam kehidupan masyarakat untuk memahami budaya mereka secara mendalam.</p>",
+      "<p>Etnografi adalah metode pengumpulan data yang hanya dilakukan melalui kuesioner dan survei daring.</p>",
+      "<p>Etnografi adalah pendekatan untuk membandingkan data genetik dalam kajian antropologi ragawi.</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "10",
+    "bacaan_soal": "<p>Masyarakat kini mulai memanfaatkan media digital untuk memperkenalkan budaya lokal. Mereka membuat konten video tentang upacara adat, membagikan resep masakan tradisional melalui media sosial, serta mengadakan pelatihan daring untuk melestarikan keterampilan seperti membatik atau membuat kerajinan tangan.</p> <p>Namun, sebagian ahli antropologi mempertanyakan apakah praktik semacam itu masih mencerminkan bentuk kearifan lokal. Mengapa para ahli berpendapat seperti itu</p>",
+    "topik_soal": "Memahami definisi dan bentuk-bentuk kearifan lokal dalam Antropologi",
+    "opsi_jawaban": [
+      "<p>Kearifan lokal seharusnya hanya diwariskan secara lisan dari generasi ke generasi.</p>",
+      "<p>Penggunaan media digital dianggap mengurangi nilai tradisi budaya secara otomatis.</p>",
+      "<p>Kearifan lokal biasanya berkembang dari praktik dan nilai dalam masyarakat dalam waktu lama.</p>",
+      "<p>Budaya digital berasal dari luar dan tidak memiliki unsur budaya sama sekali.</p>",
+      "<p>Kearifan lokal hanya berlaku jika dilakukan secara langsung tanpa media teknologi.</p>"
+    ],
+    "jawaban_benar": "C"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "nomor_soal": "2",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>2</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Mengaitkan hubungan antar variabel dalam gerak parabola dan  gerak melingkar beraturan pada peristiwa dalam kehidupan sehari-hari.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A,B,C,D</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Sebuah meja pembuat perkakas keramik dapat berputar secara horizontal terhadap titik tengah dan di atas meja tersebut terdapat sebuah beban seperti pada gambar.</p>\n<p><img alt=\"\" height=\"251\" src=\"/tka/cbt_images/24342_437570c801e52163e79a6c9d0379704a.png\" width=\"236\"/></p>\n<p>Meja berputar dengan kecepatan sudut 4 rad.s–1 dan koefisien gesekan statis antara beban dan permukaan meja 0,48 (percepatan gravitasi bumi 10 m.s–2).</p>\n<p>Dimana sajakah beban dapat diletakkan agar beban tersebut tidak terlempar dari meja?</p>\n<p>Pilihlah setiap jarak berikut. Jarak (nilai R) tersebut dihitung dari pusat meja.</p>\n<p>Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Mengaitkan hubungan antar variabel dalam gerak parabola dan  gerak melingkar beraturan pada peristiwa dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>8 cm</p>",
+      "<p>16 cm</p>",
+      "<p>24 cm</p>",
+      "<p>30 cm</p>",
+      "<p>40 cm</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "4",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>4</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis keterkaitan sifat bunyi dengan parameter gelombangnya berdasarkan peristiwa dalam kehidupan sehari-hari.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A,B,C</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Seorang pengendara motor (PM) mengendarai motornya dengan kecepatan tertentu berada pada satu garis lurus dengan mobil ambulans (MA) yang saat itu membunyikan sirine dengan frekuensi tertentu yang juga bergerak dengan kecepatan tertentu. Saat itu nilai kecepatan gerak PM lebih kecil dari MA.</p>\n<p>Pada kondisi apa sajakah pengendara motor akan mendengar bunyi sirine ambulans dengan frekuensi bunyi lebih besar dari kondisi awalnya?</p>\n<p>Klik pada setiap kondisi yang benar. Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis keterkaitan sifat bunyi dengan parameter gelombangnya berdasarkan peristiwa dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>PM bergerak mendekati MA, MA bergerak mendekati PM</p>",
+      "<p>PM bergerak menjauhi MA, MA bergerak mendekati PM</p>",
+      "<p>PM diam, MA bergerak mendekati PM</p>",
+      "<p>PM bergerak mendekati MA, MA bergerak menjauhi PM</p>",
+      "<p>PM bergerak menjauhi MA, MA diam</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "B",
+      "C"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "11",
+    "bacaan_soal": "<p class=\"card-text\">\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>11</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis keterkaitan beberapa besaran pada gerak lurus berdasarkan data yang ada untuk menyelesaikan masalah yang relevan.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>Grafik 1 dan Grafik 2 </td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Pada suatu percobaan, kecepatan sebuah benda diamati selama 4 sekon dan tabel berikut menunjukkan data kecepatan benda tersebut.</p>\n<p><img alt=\"\" height=\"140\" src=\"/tka/cbt_images/50068_273d97dead1978bd7ab5127f4a041111.png\" width=\"365\"/></p>\n<p>Jika gerak benda tersebut disajikan ke dalam grafik berbagai besaran terhadap waktu, mana sajakah grafik yang tepat?</p>\n<p>Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis keterkaitan beberapa besaran pada gerak lurus berdasarkan data yang ada untuk menyelesaikan masalah yang relevan.",
+    "opsi_jawaban": [
+      "<p><img alt=\"\" height=\"210\" src=\"/tka/cbt_images/50068_ca40489487288966e3aaf7a02f64cc15.png\" width=\"360\"/></p><p> </p>",
+      "<p><img alt=\"\" height=\"217\" src=\"/tka/cbt_images/50068_4be097469ad6414657b07e3f4ecd2021.png\" width=\"373\"/></p><p> </p>",
+      "<p><img alt=\"\" height=\"223\" src=\"/tka/cbt_images/50068_1fa66841be7ebef98df0858b4b2bad2b.png\" width=\"388\"/></p>",
+      "<p><img alt=\"\" height=\"233\" src=\"/tka/cbt_images/50068_eaa6d6451c454edb4b64645ae58f6247.png\" width=\"400\"/></p>",
+      "<p><img alt=\"\" height=\"225\" src=\"/tka/cbt_images/50068_3a3742a00d8095012ebd005df22c856a.png\" width=\"395\"/></p>"
+    ],
+    "jawaban_benar": [],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "13",
+    "bacaan_soal": "<p class=\"card-text\">\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>13</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menerapkan konsep yang berkaitan dengan fluida statis dan dinamis pada teknologi yang dimanfaatkan dalam kehidupan sehari-hari.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>Pernyataan 2 dan Pernyataan 3 </td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Pada botol semprotan parfum, udara ditiupkan cepat ke atas lubang tabung sempit yang tersambung ke cairan parfum.</p>\n<p><img alt=\"\" height=\"161\" src=\"/tka/cbt_images/35088_cd907bfb0c0e3a22c2381d3590690bf7.png\" width=\"255\"/></p>\n<p>Mana sajakah penjelasan yang benar mengenai cara kerja alat tersebut?</p>\n<p>Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menerapkan konsep yang berkaitan dengan fluida statis dan dinamis pada teknologi yang dimanfaatkan dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>Udara yang mengalir cepat di atas permukaan parfum menyebabkan tekanan di tempat itu bertambah besar.</p>",
+      "<p>Tekanan di permukaan cairan parfum menjadi lebih tinggi daripada tekanan di atasnya.</p>",
+      "<p>Cairan parfum terdorong naik ke atas karena faktor tekanan udara luar.</p>",
+      "<p>Volume cairan yang berada di dalam botol parfum mempengaruhi aliran parfum.</p>",
+      "<p>Alat ini memanfaatkan hukum Pascal dalam proses penyemprotannya.</p>"
+    ],
+    "jawaban_benar": [],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "15",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>15</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis perubahan kalor, perubahan energi dalam, atau usaha dalam proses termodinamika.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>Pernyataan 2 dan Pernyataan 3</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Pada eksperimen termodinamika sebuah mesin Carnot beroperasi antara reservoir suhu tinggi 800 K dan reservoir suhu rendah 480 K. Seorang peneliti ingin mengganti mesin tersebut dengan mesin Carnot yang memiliki efisiensi lebih tinggi agar proses eksperimen menjadi lebih efektif. Mesin Carnot mana saja yang dapat digunakan sebagai pengganti mesin Carnot semula?</p>\n<p>Pilihlah pada setiap mesin Carnot yang memenuhi! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis perubahan kalor, perubahan energi dalam, atau usaha dalam proses termodinamika.",
+    "opsi_jawaban": [
+      "<p>Suhu tinggi 600 K dan suhu rendah 480 K.</p>",
+      "<p>Suhu tinggi 800 K dan suhu rendah 400 K.</p>",
+      "<p>Suhu tinggi 900 K dan suhu rendah 500 K.</p>",
+      "<p>Suhu tinggi 900 K dan suhu rendah 600 K.</p>",
+      "<p>Suhu tinggi 1.000 K dan suhu rendah 600 K.</p>"
+    ],
+    "jawaban_benar": [],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "18",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>18</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menerapkan konsep momentum dan impuls bagi penyelesaian masalah sehari-hari.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A dan B</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Perhatikan gambar berikut!</p>\n<p style=\"text-align: left;\"><img alt=\"\" height=\"227\" src=\"/tka/cbt_images/93990_9d03a1e2ff76b1988e993f8d0af7253d.png\" width=\"222\"/></p>\n<p>Seorang penjaga gawang menangkap bola yang bergerak sangat cepat dengan cara menarik tangannya sedikit ke belakang saat menangkap bola.</p>\n<p>Apa tujuan penjaga gawang tersebut menarik tangannya ke belakang?</p>\n<p>Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menerapkan konsep momentum dan impuls bagi penyelesaian masalah sehari-hari.",
+    "opsi_jawaban": [
+      "<p>Memperlama waktu kontak dengan bola.</p>",
+      "<p>Memperkecil gaya yang dirasakan tangan.</p>",
+      "<p>Memperkecil impuls yang diterima bola.</p>",
+      "<p>Memperbesar kecepatan bola.</p>",
+      "<p>Memperkecil tekanan yang diberikan tangan.</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "B"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "20",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>20</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menguraikan hubungan antara kuat arus, tegangan, dan hambatan dalam rangkaian listrik arus searah berdasarkan hukum-hukum kelistrikan.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>B dan E</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Dua kelompok siswa melakukan pengamatan di dua rumah berbeda selama 10 hari untuk mengamati dan menganalisis penggunaan listriknya. Berikut data hasil pengamatan.</p>\n<table width=\"608\">\n<tbody>\n<tr>\n<td>\n<p><strong>Rumah</strong></p>\n</td>\n<td>\n<p><strong>Jenis Lampu</strong></p>\n</td>\n<td>\n<p><strong>Daya Lampu</strong></p>\n</td>\n<td>\n<p><strong>Jumlah Lampu</strong></p>\n</td>\n<td>\n<p><strong>Rangkaian</strong></p>\n</td>\n<td width=\"129\">\n<p><strong>Durasi Menyala per Hari</strong></p>\n</td>\n<td width=\"104\">\n<p><strong>Resistensi Kabel</strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>A</p>\n</td>\n<td>\n<p>Lampu LED</p>\n</td>\n<td>\n<p>10 watt</p>\n</td>\n<td>\n<p>10</p>\n</td>\n<td>\n<p>Paralel</p>\n</td>\n<td width=\"129\">\n<p>5 jam</p>\n</td>\n<td width=\"104\">\n<p>0,5 Ω per lampu</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>B</p>\n</td>\n<td>\n<p>Lampu Pijar</p>\n</td>\n<td>\n<p>40 watt</p>\n</td>\n<td>\n<p>6</p>\n</td>\n<td>\n<p>Seri</p>\n</td>\n<td width=\"129\">\n<p>8 jam</p>\n</td>\n<td width=\"104\">\n<p>0,2 Ω per lampu</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Diketahui tegangan listrik: 220 V.</p>\n<p>Setelah penelitian selesai, tim memperoleh data bahwa energi listrik yang terukur pada rumah B jauh lebih rendah dari yang diperkirakan, sementara pencahayaan yang dihasilkan juga tidak optimal.</p>\n<p>Rekomendasi strategi yang tepat untuk optimalisasi penerangan di rumah B sesuai dengan hasil pengamatan tersebut adalah….</p>\n<p>Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menguraikan hubungan antara kuat arus, tegangan, dan hambatan dalam rangkaian listrik arus searah berdasarkan hukum-hukum kelistrikan.",
+    "opsi_jawaban": [
+      "<p>rumah B sebaiknya mengganti lampu pijar dengan LED tanpa mengubah rangkaian seri.</p>",
+      "<p>mengubah rangkaian lampu di rumah B dari seri menjadi paralel akan meningkatkan intensitas cahaya.</p>",
+      "<p>masalah rumah B dapat diatasi dengan menambahkan resistor untuk menstabilkan tegangan.</p>",
+      "<p>rumah B sebaiknya mengganti lampu dengan daya yang lebih tinggi tanpa mengubah rangkaian seri.</p>",
+      "<p>rumah B perlu mengganti rangkaian menjadi paralel agar setiap lampu menerima tegangan penuh dan bekerja secara optimal.</p>"
+    ],
+    "jawaban_benar": [
+      "B",
+      "E"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  }
+]

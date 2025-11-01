@@ -1,0 +1,78 @@
+[
+  {
+    "nomor_soal": "1",
+    "bacaan_soal": "Malaria merupakan salah satu penyakit yang pernah menyerang jutaan penduduk di berbagai belahan dunia. Untuk mengatasi penyakit malaria, dilakukan beberapa tindakan yang terbukti berhasil, yaitu memberikan obat kina dan pembasmian nyamuk dengan menyemprotkan DDT. Tabel berikut merupakan hasil penelitian tentang efektivitas pemberian obat kina dan penyemprotan DDT dalam menurunkan angka penderita malaria di dua wilayah berbeda. Metode Wilayah A (tanpa resistensi) Wilayah B (dengan resistensi nyamuk) Pemberian Kina 3 hari 50% sembuh 48% sembuh Pemberian Kina 5 hari 76% sembuh 72% sembuh Pemberian Kina 7 hari 87% sembuh 82% sembuh Penyemprotan DDT 90% menurunkan infeksi 60% menurunkan infeksi Berdasarkan data tersebut, strategi apa yang paling tepat untuk menurunkan jumlah penderita malaria di kedua wilayah? Tentukanlah apakah pernyataan-pernyataan berikut Tepat atau Tidak Tepat sesuai dengan hasil analisis data tersebut! Malaria merupakan salah satu penyakit yang pernah menyerang jutaan penduduk di berbagai belahan dunia. Untuk mengatasi penyakit malaria, dilakukan beberapa tindakan yang terbukti berhasil, yaitu memberikan obat kina dan pembasmian nyamuk dengan menyemprotkan DDT. Tabel berikut merupakan hasil penelitian tentang efektivitas pemberian obat kina dan penyemprotan DDT dalam menurunkan angka penderita malaria di dua wilayah berbeda. Berdasarkan data tersebut, strategi apa yang paling tepat untuk menurunkan jumlah penderita malaria di kedua wilayah? Tentukanlah apakah pernyataan-pernyataan berikut Tepat atau Tidak Tepat sesuai dengan hasil analisis data tersebut!",
+    "topik_soal": "Mengolah Data dan Menyimpulkan Hasil Penyelidikan",
+    "opsi_jawaban": [
+      "Tepat",
+      "Tidak Tepat"
+    ],
+    "pernyataan": [
+      "Mengandalkan DDT di kedua wilayah, karena efektivitasnya paling tinggi dibandingkan obat kina.",
+      "Menggunakan DDT di wilayah A untuk hasil cepat, dan memperpanjang pemberian kina di wilayah B karena efektivitas DDT menurun akibat resistensi.",
+      "Mengutamakan kina 3 hari di wilayah A maupun B, karena tingkat kesembuhannya cukup tinggi dan tidak memerlukan waktu lama."
+    ],
+    "jawaban_benar": [
+      "Tidak Tepat",
+      "Tepat",
+      "Tidak Tepat"
+    ]
+  },
+  {
+    "nomor_soal": "14",
+    "bacaan_soal": "Seorang perempuan mengalami gangguan kehamilan yang cukup serius. Setelah dilakukan pemeriksaan, dokter menyatakan bahwa zigot tidak berkembang di dalam rahim, melainkan di luar rongga rahim. Kondisi ini dikenal dengan kehamilan ektopik (hamil di luar kandungan). Dari kasus tersebut, tentukan Benar atau Salah untuk setiap peryataan berikut mengenai penjelasan paling logis yang dapat mendukung diagnosis dokter terkait penyebab kehamilan ektopik tersebut! Seorang perempuan mengalami gangguan kehamilan yang cukup serius. Setelah dilakukan pemeriksaan, dokter menyatakan bahwa zigot tidak berkembang di dalam rahim, melainkan di luar rongga rahim. Kondisi ini dikenal dengan kehamilan ektopik (hamil di luar kandungan). Dari kasus tersebut, tentukan Benar atau Salah untuk setiap peryataan berikut mengenai penjelasan paling logis yang dapat mendukung diagnosis dokter terkait penyebab kehamilan ektopik tersebut!",
+    "topik_soal": "Sistem Reproduksi pada Manusia",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Pembuahan tetap terjadi di tuba falopi, namun gangguan pada silia tuba menyebabkan zigot gagal mencapai rahim.",
+      "Zigot yang tertanam di tuba falopi menunjukkan adanya masalah pada mekanisme transportasi embrio menuju rahim.",
+      "Sel telur dan sel sperma bertemu di vagina sehingga zigot tidak dapat menuju rahim dan berkembang di vagina."
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Benar",
+      "Salah"
+    ]
+  },
+  {
+    "nomor_soal": "15",
+    "bacaan_soal": "Seorang petani jagung membeli benih jagung sebanyak 1 kg di toko pertanian. Harga benih jagung tersebut ternyata beberapa kali lipat lebih mahal dari harga jagung di pasaran. Karena alasan mahalnya benih jagung di toko pertanian, pada saat panen petani tersebut memilih jagung yang kualitasnya bagus untuk dijadikan benih. Tetangganya yang sudah pernah menanam jagung dari benih hasil panen sendiri memberikan nasehat agar tidak melakukan hal itu karena hasil panennya tidak akan bagus. Penasaran dengan ungkapan tetangganya, petani tersebut ingin membuktikan ucapan tetangganya. Tentukan kegiatan yang Tepat Dilakukan atau Tidak Tepat Dilakukan oleh petani untuk membuktikan ucapan tetangganya! Seorang petani jagung membeli benih jagung sebanyak 1 kg di toko pertanian. Harga benih jagung tersebut ternyata beberapa kali lipat lebih mahal dari harga jagung di pasaran. Karena alasan mahalnya benih jagung di toko pertanian, pada saat panen petani tersebut memilih jagung yang kualitasnya bagus untuk dijadikan benih. Tetangganya yang sudah pernah menanam jagung dari benih hasil panen sendiri memberikan nasehat agar tidak melakukan hal itu karena hasil panennya tidak akan bagus. Penasaran dengan ungkapan tetangganya, petani tersebut ingin membuktikan ucapan tetangganya. Tentukan kegiatan yang Tepat Dilakukan atau Tidak Tepat Dilakukan oleh petani untuk membuktikan ucapan tetangganya!",
+    "topik_soal": "Merencanakan dan Melaksanakan Penyelidikan Ilmiah",
+    "opsi_jawaban": [
+      "Tepat Dilakukan",
+      "Tidak Tepat Dilakukan"
+    ],
+    "pernyataan": [
+      "Menguji satu benih toko dan satu benih hasil panen di lahan yang sama, lalu membandingkan hasilnya.",
+      "Melakukan penanaman beberapa benih toko dan beberapa benih hasil panen di lahan yang sama, tetapi diberi pupuk yang berbeda, lalu membandingkan hasilnya.",
+      "Menanam beberapa benih toko dan beberapa benih hasil panen di lahan yang sama, diberi pupuk yang sama, kemudian membandingkan hasilnya."
+    ],
+    "jawaban_benar": [
+      "Tidak Tepat Dilakukan",
+      "Tidak Tepat Dilakukan",
+      "Tepat Dilakukan"
+    ]
+  },
+  {
+    "nomor_soal": "18",
+    "bacaan_soal": "Setelah berlari selama 30 menit tanpa henti, seorang murid merasa nafasnya menjadi lebih cepat dan dalam. Hal ini terjadi karena tubuhnya membutuhkan lebih banyak oksigen dan harus membuang karbon dioksida lebih cepat. Untuk membantu tubuh kembali ke kondisi normal dan mendukung proses pernapasan yang optimal, aktivitas apa saja yang sebaiknya dilakukan oleh pelari dalam situasi tersebut? Tentukan Benar atau Salah pada setiap pernyataan berikut terkait aktivitas yang sebaiknya dilakukan pelari! Setelah berlari selama 30 menit tanpa henti, seorang murid merasa nafasnya menjadi lebih cepat dan dalam. Hal ini terjadi karena tubuhnya membutuhkan lebih banyak oksigen dan harus membuang karbon dioksida lebih cepat. Untuk membantu tubuh kembali ke kondisi normal dan mendukung proses pernapasan yang optimal, aktivitas apa saja yang sebaiknya dilakukan oleh pelari dalam situasi tersebut? Tentukan Benar atau Salah pada setiap pernyataan berikut terkait aktivitas yang sebaiknya dilakukan pelari!",
+    "topik_soal": "Sistem Respirasi pada Manusia",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Melakukan pendinginan dengan berjalan perlahan untuk menormalkan laju pernapasan.",
+      "Mengatur napas dengan teknik pernapasan dalam (deep breathing) secara perlahan.",
+      "Langsung duduk atau berbaring tanpa bergerak agar tubuh cepat beristirahat."
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Benar",
+      "Salah"
+    ]
+  }
+]

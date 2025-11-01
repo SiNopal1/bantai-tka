@@ -1,0 +1,59 @@
+[
+  {
+    "nomor_soal": "3",
+    "bacaan_soal": "Dania menjalankan usaha produksi pakaian dengan menggunakan nama dan logo yang menyerupai milik sebuah merek terkenal. Strategi ini ia pilih agar produknya lebih cepat dikenal dan menarik minat konsumen. Namun, tindakan tersebut justru menimbulkan kebingungan di kalangan masyarakat dan berpotensi merugikan perusahaan asli. Akibatnya, ia dianggap telah melanggar hak kekayaan intelektual. Dania menjalankan usaha produksi pakaian dengan menggunakan nama dan logo yang menyerupai milik sebuah merek terkenal. Strategi ini ia pilih agar produknya lebih cepat dikenal dan menarik minat konsumen. Namun, tindakan tersebut justru menimbulkan kebingungan di kalangan masyarakat dan berpotensi merugikan perusahaan asli. Akibatnya, ia dianggap telah melanggar hak kekayaan intelektual. Apa yang dapat Dania lakukan agar masalah tersebut dapat terselesaikan dan usahanya tetap dapat berjalan? Tentukan Benar atau Salah untuk setiap pernyataan berikut! Apa yang dapat Dania lakukan agar masalah tersebut dapat terselesaikan dan usahanya tetap dapat berjalan? Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+    "topik_soal": "HAKI",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Menciptakan desain logo yang orisinil dan meminta pendampingan hukum untuk memastikan legalitas usaha.",
+      "Menghentikan seluruh produk yang diketahui melanggar hak kekayaan intelektual.",
+      "Mengganti nama produk tanpa mengubah logo agar terhindar pelanggaran hak kekayaan intelektual."
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Benar",
+      "Salah"
+    ]
+  },
+  {
+    "nomor_soal": "6",
+    "bacaan_soal": "PT Mandala Foods perusahaan yang memproduksi makanan beku seperti nugget sayur, sosis tempe, dan bakso ikan. Menjelang libur akhir tahun, permintaan meningkat hingga 3 kali lipat dari bulan-bulan sebelumnya. Untuk mengantisipasi lonjakan ini, manajemen merancang perencanaan produksi jangka pendek. PT Mandala Foods perusahaan yang memproduksi makanan beku seperti nugget sayur, sosis tempe, dan bakso ikan. Menjelang libur akhir tahun, permintaan meningkat hingga 3 kali lipat dari bulan-bulan sebelumnya. Untuk mengantisipasi lonjakan ini, manajemen merancang perencanaan produksi jangka pendek. Bagaimana perencanaan yang dilakukan PT Mandala Foods agar semua aspek berjalan dengan baik? Tentukan Benar atau Salah pasa setiap pernyataan berikut! Bagaimana perencanaan yang dilakukan PT Mandala Foods agar semua aspek berjalan dengan baik? Tentukan Benar atau Salah pasa setiap pernyataan berikut!",
+    "topik_soal": "Perencanaan dan Biaya Produksi",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Penyediaan bahan baku harus dipastikan tepat waktu agar proses produksi tidak terhambat",
+      "Penetapan target jumlah produksi sebaiknya bersifat tetap agar proses produksi berjalan stabil.",
+      "Jadwal kerja karyawan harian perlu diatur sebagai bagian dari sistem penjadwalan produksi."
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Salah",
+      "Benar"
+    ]
+  },
+  {
+    "nomor_soal": "10",
+    "bacaan_soal": "Perusahaan Y-Mobile pernah menjadi pelopor dalam komunikasi mobile dengan fitur unggulan dan desain fisik yang khas. Namun, perusahaan ini gagal beradaptasi terhadap perubahan tren teknologi ketika kompetitor mulai memperkenalkan fitur yang lebih canggih. Y-Mobile tetap bertahan dengan desain lama dan mengandalkan loyalitas pelanggan lama. Akibatnya, perusahaan tertinggal jauh dan akhirnya kehilangan pangsa pasar secara signifikan. Perusahaan kemudian mengidentifikasi penyebab utama kegagalan sebagai berikut: Keterlambatan dalam merespons inovasi teknologi. Kegagalan membangun ekosistem digital yang kompetitif. Ketergantungan berlebihan pada model produk lama dan basis pelanggan tradisional. Perusahaan Y-Mobile pernah menjadi pelopor dalam komunikasi mobile dengan fitur unggulan dan desain fisik yang khas. Namun, perusahaan ini gagal beradaptasi terhadap perubahan tren teknologi ketika kompetitor mulai memperkenalkan fitur yang lebih canggih. Y-Mobile tetap bertahan dengan desain lama dan mengandalkan loyalitas pelanggan lama. Akibatnya, perusahaan tertinggal jauh dan akhirnya kehilangan pangsa pasar secara signifikan. Perusahaan kemudian mengidentifikasi penyebab utama kegagalan sebagai berikut: Manakah pernyataan berikut ini yang merupakan solusi tepat untuk mengatasi penyebab kegagalan tersebut? Tentukan Benar atau Salah pada setiap pernyataan berikut! Manakah pernyataan berikut ini yang merupakan solusi tepat untuk mengatasi penyebab kegagalan tersebut? Tentukan Benar atau Salah pada setiap pernyataan berikut!",
+    "topik_soal": "Peluang Usaha",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Mengembangkan sistem operasi sendiri yang mendukung aplikasi modern.",
+      "Menurunkan harga produk lama untuk menjangkau pasar yang lebih luas.",
+      "Mempertahankan desain fisik lama untuk pelanggan setia."
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Salah",
+      "Salah"
+    ]
+  }
+]

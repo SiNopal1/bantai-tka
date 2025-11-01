@@ -1,0 +1,51 @@
+[
+  {
+    "nomor_soal": "15",
+    "bacaan_soal": "<p class=\"card-text\"><p><!-- x-tinymce/html -->Produksi H<sub>2</sub>SO<sub>4</sub> dilakukan melalui proses kontak yang berlangsung melalui reaksi kesetimbangan berikut. <br/>2SO<sub>2</sub> (g) + O<sub>2</sub>(g) ⇋ 2SO<sub>3</sub> (g) ∆H = –197 kJmol-1 <br/>Untuk meningkatkan produksi H<sub>2</sub>SO<sub>4</sub> dapat dilakukan dengan memanfaatkan reaksi kesetimbangan yang terjadi. </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>15</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Materi : Kimia Fisik<br>\r\nSubmateri : Dinamika<br>\r\nMenganalisis kesetimbangan dinamis serta berbagai faktor mempengaruhinya </br></br></td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td> Pernyataan 2, Pernyataan 4, dan Pernyataan 5 </td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p><!-- x-tinymce/html -->Pernyataan mana saja yang menunjukkan upaya yang dapat dilakukan untuk mendapatkan SO<sub>3</sub> sebanyak-banyaknya? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Materi : Kimia FisikSubmateri : DinamikaMenganalisis kesetimbangan dinamis serta berbagai faktor mempengaruhinya",
+    "opsi_jawaban": [
+      "<p><!-- x-tinymce/html -->Memperbesar volume wadah</p>",
+      "<p><!-- x-tinymce/html -->Menambah O<sub>2</sub> ke dalam campuran reaksi</p>",
+      "<p><!-- x-tinymce/html -->Menurunkan tekanan gas</p>",
+      "<p><!-- x-tinymce/html -->Menurunkan suhu reaksi</p>",
+      "<p><!-- x-tinymce/html -->Mengeluarkan SO<sub>3</sub> dari wadah</p>"
+    ],
+    "jawaban_benar": ["B", "D", "E"],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "16",
+    "bacaan_soal": "<p class=\"card-text\"><p>Seorang murid melakukan percobaan reaksi antara 24 gram logam magnesium (Mg, Ar = 24 g/mol) dengan larutan asam klorida (HCl) 3 M sebanyak 1 Liter, pada kondisi STP (<em>Standard Temperature and Pressure</em>). Reaksi yang terjadi sebagai berikut:</p>\n<p> </p>\n<p style=\"text-align: center;\">Mg(<em>s</em>) + 2HCl(<em>aq</em>) → MgCl<sub>2</sub>(<em>aq</em>) + H<sub>2</sub>(<em>g</em>)</p>\n<p> </p>\n<p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>16</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menerapkan perhitungan kimia untuk menyelesaikan masalah</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A dan B</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Berdasarkan reaksi tersebut, pilihlah pernyataan yang benar berkaitan dengan zat reaktan dan produk! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menerapkan perhitungan kimia untuk menyelesaikan masalah",
+    "opsi_jawaban": [
+      "<p>Mol Mg yang bereaksi adalah 1 mol</p>",
+      "<p>Volume H₂ yang dihasilkan adalah 22,4 L.</p>",
+      "<p>HCl adalah reagen pembatas.</p>",
+      "<p>HCl yang bereaksi adalah 3 mol</p>",
+      "<p>MgCl<sub>2</sub> yang dihasilkan adalah 2 mol</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "B"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "18",
+    "bacaan_soal": "<p class=\"card-text\"><p>Larutan penyangga adalah larutan yang dapat mempertahankan pH dengan penambahan sedikit asam atau basa. Dalam kehidupan sehari-hari, larutan penyangga berguna untuk menjaga pH darah, menjaga pH cairan intra sel, menjaga pH makanan olahan dalam kaleng, dan menjaga pH obat-obatan. Sebanyak 100 mL CH<sub>3</sub>COOH 0,1 M ditambahkan 100 mL NaOH 0,05 M. Nilai tetapan ionisasi asam asetat adalah 110<sup>-5</sup>.</p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>18</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis konsep, sifat dan pH larutan penyangga serta penerapannya dalam kehidupan sehari-hari</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A, C, dan E</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Berdasarkan data dan informasi tersebut, manakah di antara pernyataan berikut yang benar terkait dengan reaksi asam basa? Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis konsep, sifat dan pH larutan penyangga serta penerapannya dalam kehidupan sehari-hari",
+    "opsi_jawaban": [
+      "<p>Nilai pH larutan penyangga tersebut adalah 5.</p>",
+      "<p>Asam asetat yang bereaksi adalah 10 mmol.</p>",
+      "<p>Natrium hidroksida yang bereaksi adalah 5 mmol.</p>",
+      "<p>Asam asetat dan natrium hidroksida habis bereaksi.</p>",
+      "<p>Garam CH<sub>3</sub>COONa yang terbentuk adalah 5 mmol</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "C",
+      "E"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  }
+]

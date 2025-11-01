@@ -1,0 +1,54 @@
+[
+  {
+    "nomor_soal": "5",
+    "bacaan_soal": "<p>Perhatikan gambar citra satelit berikut dengan seksama!</p> <p><img alt=\"\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/47864_7cab0cab57e661fb3be827d1a6688d37.png\"/></p> <p>Berdasarkan gambar di atas, produk analisis yang dapat dihasilkan dari olahan citra tersebut adalah ….</p>",
+    "topik_soal": "Menjelaskan penggunaan informasi Geospasial dalam kehidupan sehari-hari",
+    "opsi_jawaban": [
+      "<p>peta jenis vegetasi</p>",
+      "<p>peta kawasan rawan bencana</p>",
+      "<p>peta stratigrafi batuan</p>",
+      "<p>peta oksigen terlarut</p>",
+      "<p>peta penggunaan lahan</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "6",
+    "bacaan_soal": "<p>Wilayah Jakarta diproyeksikan akan berkembang menjadi kawasan megapolitan yang melibatkan wilayah di luar Jabodetabek pasca menjadi Ibukota. Pertumbuhan penduduk yang terus meningkat, khususnya akibat migrasi dari berbagai daerah, menyebabkan tekanan terhadap ruang, infrastruktur, dan layanan publik di wilayah Jakarta dan sekitarnya. Keadaan ini mendorong perluasan wilayah fungsional kota hingga menjangkau kawasan yang lebih luas, termasuk kota-kota di provinsi tetangga (Jawa Barat dan Banten).</p> <p>Berdasarkan dinamika pertumbuhan penduduk yang terus meningkat akibat migrasi, bagaimana kemungkinan pola pergerakan penduduk di wilayah megapolitan Jakarta akan berkembang di masa depan</p>",
+    "topik_soal": "Menganalisis konsep dan teori dasar mengenai dinamika kependudukan pada suatu wilayah tempat tinggal",
+    "opsi_jawaban": [
+      "<p>Urbanisasi akan menurun karena masyarakat mulai kembali ke desa akibat tekanan hidup di kota besar.</p>",
+      "<p>Penduduk akan akan bermigrasi secara merata di seluruh wilayah kota karena program industri padat modal.</p>",
+      "<p>Pergerakan penduduk cenderung terkonsentrasi di pusat kota karena akses pekerjaan dan layanan publik yang lebih baik.</p>",
+      "<p>Pergerakan penduduk akan membentuk pola peri-urbanisasi, yaitu menyebar ke wilayah pinggiran dan kota-kota satelit di luar Jabodetabek.</p>",
+      "<p>Dinamika penduduk hanya akan terjadi di kawasan industri besar karena fasilitas penunjangnya paling lengkap.</p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "9",
+    "bacaan_soal": "<p>Setiap musim hujan, wilayah Kota Bekasi kerap dilanda banjir yang menyebabkan kemacetan lalu lintas, kerusakan rumah warga, dan terganggunya aktivitas ekonomi. Berdasarkan data BMKG, curah hujan di wilayah ini cukup tinggi pada bulan Januari hingga Maret. Selain itu, sistem drainase yang buruk, tingginya alih fungsi lahan menjadi permukiman, dan pendangkalan sungai dan tumpukan sampah memperparah kondisi banjir. Pemerintah setempat telah melakukan beberapa upaya seperti normalisasi sungai dan pembangunan waduk.</p> <p>Konsep geografi yang paling tepat digunakan untuk menjelaskan penyebab banjir tersebut adalah … .</p>",
+    "topik_soal": "Menganalisis ragam risiko dan faktor penyebab bencana alam",
+    "opsi_jawaban": [
+      "<p>Interaksi, interdependensi, dan diferensiasi</p>",
+      "<p>Diferensiasi area, lokasi dan interaksi</p>",
+      "<p>Keterkaitan antara faktor fisik dan manusia</p>",
+      "<p>Aglomerasi, interaksi, dan lokasi bencana</p>",
+      "<p>Jarak, lokasi, dan keterkaitan lingkungan</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "10",
+    "bacaan_soal": "<p>Sebuah aplikasi berbasis peta digunakan oleh masyarakat Kota B untuk mencari rute tercepat menuju lokasi vaksinasi COVID-19 dengan mempertimbangkan tingkat kemacetan.</p> <p>Teknologi geospasial apa yang paling berperan dalam aplikasi tersebut</p>",
+    "topik_soal": "Menjelaskan penggunaan informasi Geospasial dalam kehidupan sehari-hari",
+    "opsi_jawaban": [
+      "<p><em>Remote sensing</em> untuk mendeteksi suhu tubuh pengguna.</p>",
+      "<p>GIS menampilkan dan mengelola data lokasi serta rute optimal.</p>",
+      "<p>Peta kontur untuk menghindari wilayah berbukit.</p>",
+      "<p>Sistem manual berbasis input teks dari pengguna.</p>",
+      "<p>Sensor cahaya untuk mendeteksi kepadatan lalu lintas.</p>"
+    ],
+    "jawaban_benar": "B"
+  }
+]

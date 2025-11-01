@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Soal TKA - Target Perfect Score</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+        
+        * {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+        }
+        
+        .gradient-bg {
+            background: linear-gradient(135deg, #FF6B35 0%, #FF8E53 50%, #FFA07A 100%);
+        }
+        
+        .gradient-text {
+            background: linear-gradient(135deg, #FF6B35 0%, #FF8E53 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        
+        .card-hover:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 40px rgba(255, 107, 53, 0.2);
+        }
+        
+        .feature-card {
+            transition: all 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            transform: scale(1.05);
+        }
+        
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+        }
+        
+        .floating {
+            animation: float 3s ease-in-out infinite;
+        }
+        
+        .pulse-glow {
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    
+    <!-- Hero Section -->
+    <section class="gradient-bg min-h-screen flex items-center justify-center relative overflow-hidden">
+        <!-- Decorative Elements -->
+        <div class="absolute top-20 left-10 w-20 h-20 bg-white opacity-10 rounded-full blur-xl"></div>
+        <div class="absolute bottom-32 right-20 w-32 h-32 bg-white opacity-10 rounded-full blur-2xl"></div>
+        <div class="absolute top-1/2 left-1/4 w-16 h-16 bg-yellow-300 opacity-20 rounded-full blur-lg floating"></div>
+        
+        <div class="container mx-auto px-6 py-20 relative z-10">
+            <div class="max-w-4xl mx-auto text-center">
+                <!-- Badge -->
+                <div class="inline-flex items-center gap-2 bg-white/20 backdrop-blur-sm px-6 py-3 rounded-full mb-8">
+                    <span class="text-2xl">🎯</span>
+                    <span class="text-white font-semibold">Target Perfect Score</span>
+                </div>
+                
+                <!-- Main Heading -->
+                <h1 class="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
+                    Latihan Soal TKA
+                    <br/>
+                    <span class="text-yellow-200">Makin Mudah!</span>
+                </h1>
+                
+                <p class="text-xl md:text-2xl text-white/90 mb-12 max-w-2xl mx-auto leading-relaxed">
+                    Persiapan ujian jadi lebih asik dengan latihan soal yang mirip ujian beneran. Yuk, raih skor sempurna! 🚀
+                </p>
+                
+                <!-- CTA Button -->
+                <a href="#subjects" class="inline-block bg-white text-orange-500 px-10 py-5 rounded-2xl font-bold text-lg hover:bg-yellow-50 transition-all hover:scale-105 shadow-2xl">
+                    Mulai Latihan Sekarang ✨
+                </a>
+                
+                <!-- Stats -->
+                <div class="grid grid-cols-3 gap-6 mt-16 max-w-2xl mx-auto">
+                    <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6">
+                        <div class="text-3xl font-bold text-white mb-2">13+</div>
+                        <div class="text-white/80 text-sm">Mata Pelajaran</div>
+                    </div>
+                    <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6">
+                        <div class="text-3xl font-bold text-white mb-2">⏱️</div>
+                        <div class="text-white/80 text-sm">Real Exam Timer</div>
+                    </div>
+                    <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6">
+                        <div class="text-3xl font-bold text-white mb-2">🤖</div>
+                        <div class="text-white/80 text-sm">AI Powered</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="py-24 bg-white">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-bold mb-4">
+                    Kenapa Harus <span class="gradient-text">Pilih Kami?</span>
+                </h2>
+                <p class="text-gray-600 text-lg max-w-2xl mx-auto">
+                    Fitur-fitur keren yang bikin belajar jadi lebih efektif dan menyenangkan
+                </p>
+            </div>
+            
+            <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+                <!-- Feature 1 -->
+                <div class="feature-card bg-gradient-to-br from-orange-50 to-orange-100 rounded-3xl p-8 text-center">
+                    <div class="text-6xl mb-6">⏰</div>
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">Simulasi Ujian Real</h3>
+                    <p class="text-gray-600 leading-relaxed">
+                        Latihan dengan timer seperti ujian beneran. Jadi udah terbiasa dan nggak grogi pas hari H!
+                    </p>
+                </div>
+                
+                <!-- Feature 2 -->
+                <div class="feature-card bg-gradient-to-br from-orange-50 to-orange-100 rounded-3xl p-8 text-center">
+                    <div class="text-6xl mb-6">✅</div>
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">Kunci Jawaban Lengkap</h3>
+                    <p class="text-gray-600 leading-relaxed">
+                        Langsung tau mana yang salah dan bener setelah selesai. Belajar dari kesalahan jadi lebih cepat!
+                    </p>
+                </div>
+                
+                <!-- Feature 3 - Highlighted -->
+                <div class="feature-card bg-gradient-to-br from-orange-500 to-orange-600 rounded-3xl p-8 text-center shadow-2xl relative">
+                    <div class="absolute -top-4 right-6 bg-yellow-400 text-gray-800 px-4 py-2 rounded-full text-sm font-bold pulse-glow">
+                        ⭐ FITUR UNGGULAN
+                    </div>
+                    <div class="text-6xl mb-6">🤖</div>
+                    <h3 class="text-2xl font-bold text-white mb-4">Integrasi ChatGPT</h3>
+                    <p class="text-white/90 leading-relaxed">
+                        Butuh penjelasan lebih? Tanya langsung ke AI! Dapat materi lanjutan dan latihan soal tambahan yang disesuaikan sama kebutuhanmu.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Subjects Section -->
+    <section id="subjects" class="py-24 bg-gradient-to-b from-white to-gray-50">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-bold mb-4">
+                    Pilih <span class="gradient-text">Mata Pelajaran</span>
+                </h2>
+                <p class="text-gray-600 text-lg max-w-2xl mx-auto">
+                    Klik mata pelajaran yang ingin kamu latih dan langsung mulai ujian! 📚
+                </p>
+            </div>
+            
+            <!-- Mata Pelajaran Wajib -->
+            <div class="mb-16">
+                <h3 class="text-2xl font-bold text-gray-800 mb-8 flex items-center gap-3">
+                    <span class="bg-orange-500 text-white w-10 h-10 rounded-full flex items-center justify-center text-lg">A</span>
+                    Mata Pelajaran Wajib
+                </h3>
+                <div class="grid md:grid-cols-3 gap-6">
+                    <!-- Matematika Wajib -->
+                    <a href="matwa.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-5xl mb-4">🔢</div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">Matematika Wajib</h4>
+                        <p class="text-gray-600 text-sm">Logika, aljabar, dan statistika dasar</p>
+                        <div class="mt-4 text-orange-500 font-semibold flex items-center gap-2">
+                            Mulai Latihan <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Bahasa Indonesia -->
+                    <a href="bindo.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-5xl mb-4">📖</div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">Bahasa Indonesia</h4>
+                        <p class="text-gray-600 text-sm">Teks, struktur bahasa, dan literasi</p>
+                        <div class="mt-4 text-orange-500 font-semibold flex items-center gap-2">
+                            Mulai Latihan <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Bahasa Inggris -->
+                    <a href="bing.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-5xl mb-4">🌍</div>
+                        <h4 class="text-xl font-bold text-gray-800 mb-2">Bahasa Inggris</h4>
+                        <p class="text-gray-600 text-sm">Reading, grammar, dan vocabulary</p>
+                        <div class="mt-4 text-orange-500 font-semibold flex items-center gap-2">
+                            Mulai Latihan <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            
+            <!-- Mata Pelajaran Pilihan -->
+            <div>
+                <h3 class="text-2xl font-bold text-gray-800 mb-8 flex items-center gap-3">
+                    <span class="bg-orange-500 text-white w-10 h-10 rounded-full flex items-center justify-center text-lg">B</span>
+                    Mata Pelajaran Pilihan
+                </h3>
+                <div class="grid md:grid-cols-4 gap-6">
+                    <!-- Antropologi -->
+                    <a href="antropologi.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">🗿</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Antropologi</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Bahasa Indonesia Lanjut -->
+                    <a href="bindolan.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">📚</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Bahasa Indonesia Lanjut</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Bahasa Inggris Lanjut -->
+                    <a href="binglan.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">🎓</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Bahasa Inggris Lanjut</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Biologi -->
+                    <a href="biologi.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">🧬</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Biologi</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Ekonomi -->
+                    <a href="ekonomi.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">💰</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Ekonomi</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Fisika -->
+                    <a href="fisika.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">⚛️</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Fisika</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Geografi -->
+                    <a href="geografi.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">🌏</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Geografi</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Kimia -->
+                    <a href="kimia.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">⚗️</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Kimia</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Matematika Lanjut -->
+                    <a href="matlan.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">📐</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Matematika Lanjut</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- PKN -->
+                    <a href="pkn.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">🏛️</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">PKN</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- PKWU -->
+                    <a href="pkwu.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">🎨</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">PKWU</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Sejarah -->
+                    <a href="sejarah.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">📜</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Sejarah</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                    
+                    <!-- Sosiologi -->
+                    <a href="sosiologi.html" class="card-hover bg-white rounded-2xl p-6 border-2 border-gray-100 hover:border-orange-300">
+                        <div class="text-4xl mb-3">👥</div>
+                        <h4 class="text-lg font-bold text-gray-800 mb-2">Sosiologi</h4>
+                        <div class="text-orange-500 font-semibold text-sm flex items-center gap-1">
+                            Mulai <span>→</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="gradient-bg py-20">
+        <div class="container mx-auto px-6">
+            <div class="max-w-3xl mx-auto text-center">
+                <h2 class="text-4xl md:text-5xl font-bold text-white mb-6">
+                    Siap Raih Perfect Score? 🎯
+                </h2>
+                <p class="text-xl text-white/90 mb-10">
+                    Mulai latihan sekarang dan capai impianmu masuk universitas favorit!
+                </p>
+                <a href="#subjects" class="inline-block bg-white text-orange-500 px-10 py-5 rounded-2xl font-bold text-lg hover:bg-yellow-50 transition-all hover:scale-105 shadow-2xl">
+                    Yuk, Mulai Sekarang! 🚀
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-6 text-center">
+            <div class="text-2xl font-bold mb-4 gradient-text">Latihan Soal TKA</div>
+            <p class="text-gray-400 mb-6">Target Perfect Score - Persiapan Ujian yang Lebih Asik!</p>
+            <div class="text-gray-500 text-sm">
+                © 2024 Latihan Soal TKA. Semua Hak Dilindungi.
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>

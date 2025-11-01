@@ -1,0 +1,78 @@
+[
+  {
+    "nomor_soal": "12",
+    "bacaan_soal": "Mirna akan memproduksi dua jenis kue dengan modal Rp8.000.000,00. Biaya produksi kue bolu sebesar Rp15.000,00 per kotak dan dijual dengan laba 40%. Sedangkan biaya produksi kue brownies sebesar Rp20.000,00 per kotak dan dijual dengan laba 35%. Setiap harinya, Mirna dapat memproduksi paling banyak 500 kotak kue. Apabila Mirna ingin memperoleh keuntungan maksimum, tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+    "topik_soal": "Program linear",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Mirna harus memproduksi 200 kotak kue bolu.",
+      "Mirna harus memproduksi kue brownies lebih banyak.",
+      "Keuntungan maksimum yang dapat diperoleh Mirna adalah Rp3.100.000,00."
+    ],
+    "jawaban_benar": [
+      "Salah",
+      "Salah",
+      "Benar"
+    ]
+  },
+  {
+    "nomor_soal": "13",
+    "bacaan_soal": "Tentukan Benar atau Salah untuk setiap pernyataan berikut terkait dengan besar sudut pada trapesium 𝐴𝐵𝐶𝐷!\n<img alt=\"\" height=\"214\" src=\"/tka/cbt_images/65502_c1f1ffe270f76a3a1535bde803228b4d.png\" width=\"538\"/>",
+    "topik_soal": "hubungan dua sudut, dua garis, dan dua bidang",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "\n<img alt=\"\" height=\"23\" src=\"/tka/cbt_images/65502_3a1a1a2f9ce77db7f1cac78b777aeac3.png\" width=\"121\"/>",
+      "\n<img alt=\"\" height=\"24\" src=\"/tka/cbt_images/65502_288dbf2e00b1bddebeddf4aa378cf706.png\" width=\"107\"/>",
+      "\n<img alt=\"\" height=\"21\" src=\"/tka/cbt_images/65502_9f675a63ab39ad85502209c54a02a18f.png\" width=\"113\"/>"
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Benar",
+      "Salah"
+    ]
+  },
+  {
+    "nomor_soal": "17",
+    "bacaan_soal": "Fungsi didefinisikan oleh Tentukan Benar atau Salah pada setiap pernyataan berikut yang terkait dengan grafik fungsi !\n<img alt=\"\" data-latex=\"f(x)\\, =\\, 4({x}^{2}-8x+12)\" height=\"34\" src=\"/tka/cbt_images/58301_e1f215c43d145ce6d57d8f93cf319473.png\" width=\"196\"/>\n<img alt=\"\" data-latex=\"f\" height=\"24\" src=\"/tka/cbt_images/58301_c7903bda280f1605697c7c1fb1509485.png\" width=\"35\"/>",
+    "topik_soal": "domain, kodomain, daerah hasil (range), dan representasi fungsi linear, kuadrat, dan rasional dalam berbagai bentuk",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Grafik fungsi ƒ terbuka ke atas.",
+      "Grafik fungsi ƒ memotong garis\n<img alt=\"\" height=\"22\" src=\"/tka/cbt_images/33292_8a3e9977ced1021279e2043ba90da806.png\" width=\"82\"/>",
+      "Grafik fungsi ƒ tidak melalui kuadran tiga."
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Salah",
+      "Benar"
+    ]
+  },
+  {
+    "nomor_soal": "19",
+    "bacaan_soal": "Pak Andi akan mempresentasikan desain gedung berukuran 60 cm × 60 cm menggunakan proyektor ke layar berukuran 2,4 meter × 1,8 meter yang dipasang di depan ruang rapat (orientasi horizontal). Proyektor menghasilkan pembesaran proporsional tergantung jaraknya dari layar. Pak Andi menempatkan proyektor dengan jarak yang menghasilkan skala pembesaran seperti terlihat pada gambar berikut: Bagaimanakah tampilan desain gedung di layar? Tentukan Benar atau Salah pada setiap pernyataan berikut!\n<img alt=\"\" height=\"307\" src=\"/tka/cbt_images/10404_f9c9ac794c654d40d2df88cf5ad4c586.png\" width=\"306\"/>",
+    "topik_soal": "transformasi geometri (translasi, refleksi, rotasi, dan dilatasi, serta komposisinya) dari titik",
+    "opsi_jawaban": [
+      "Benar",
+      "Salah"
+    ],
+    "pernyataan": [
+      "Perbandingan ukuran tampilan desain di layar adalah 1 : 1.",
+      "Ukuran panjang dan lebar tampilan desain pada layar adalah lebih dari 1 meter.",
+      "Terdapat bagian gambar asli desain yang terpotong dalam tampilan pada layar."
+    ],
+    "jawaban_benar": [
+      "Benar",
+      "Benar",
+      "Salah"
+    ]
+  }
+]

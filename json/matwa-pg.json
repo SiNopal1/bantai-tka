@@ -1,0 +1,184 @@
+[
+  {
+    "nomor_soal": "1",
+    "bacaan_soal": "<p> </p> <p style=\"text-align: justify;\">Harga 3 buah buku dan 2 buah penggaris Rp18.000,00. Jika harga sebuah buku Rp1.000,00 lebih mahal dari sebuah penggaris, harga 2 buah buku dan 5 buah penggaris adalah ....</p>",
+    "topik_soal": "sistem persamaan linear multivariabel",
+    "opsi_jawaban": [
+      "<p>Rp19.000,00</p>",
+      "<p>Rp23.000,00</p>",
+      "<p>Rp25.000,00</p>",
+      "<p>Rp27.000,00</p>",
+      "<p>Rp30.000,00</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "2",
+    "bacaan_soal": "<p>Perhatikan gambar berikut.</p> <p><img alt=\"\" height=\"186\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/88819_6837a3202add4799943b1f2837c58003.png\" width=\"266\"/></p> <p>Daerah yang memenuhi sistem pertidaksamaan linear <img alt=\"\" height=\"18\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/95089_d25340b2a7ed58e850e0298630c96c79.png\" width=\"249\"/> adalah ....</p>",
+    "topik_soal": "sistem pertidaksamaan linear multivariabel",
+    "opsi_jawaban": [
+      "<p>I</p>",
+      "<p>II</p>",
+      "<p>III</p>",
+      "<p>IV</p>",
+      "<p>V</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "3",
+    "bacaan_soal": "<p> </p> <p>Diketahui fungsi <em>f</em>(<em>x</em>) = <img alt=\"\" data-latex=\"\\sqrt {2x+\\, 3}\" height=\"27\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/90318_c60ef3ace5c263099625b4010816a4d6.png\" width=\"70\"/> , dengan <img alt=\"\" data-latex=\"x\\, \\geq \\, -\\frac {3} {2}\" height=\"27\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/90318_2a36cdc3b7f69c96b64c46de15d93cba.png\" width=\"65\"/> . Jika <em>f </em><sup>–1</sup>(<em>x</em>) adalah invers dari fungsi <em>f</em>(<em>x</em>), nilai dari <em>f </em><sup>–1</sup>(3) = ....</p>",
+    "topik_soal": "invers fungsi dan representasinya",
+    "opsi_jawaban": [
+      "<p>6</p>",
+      "<p>3</p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {3} {2}\" height=\"55\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/90318_46f958d9049ce63426b88d5d95566247.png\" width=\"63\"/></p> <p> </p>",
+      "<p><img alt=\"\" data-latex=\"-\\frac {1} {2}\" height=\"50\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/90318_0023d56d4147d6d42f218fe65a9239a3.png\" width=\"76\"/></p> <p> </p>",
+      "<p>-1</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "4",
+    "bacaan_soal": "<p> </p> <p>Fungsi <em>f : R -&gt; R</em> dan <em>g R -&gt; R </em>. Jika <em>g</em><em>(x) = x - 1</em> dan (<em>f o</em><em> </em><em>g</em>)<em>(x) = x<sup>3 </sup>– 4x</em>, nilai dari <em>f</em>(2) = ….</p>",
+    "topik_soal": "fungsi komposisi dan representasinya",
+    "opsi_jawaban": [
+      "<p>9</p>",
+      "<p>13</p>",
+      "<p>15</p>",
+      "<p>17</p>",
+      "<p>25</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "5",
+    "bacaan_soal": "<p> </p> <p>Seorang peneliti melakukan pengamatan terhadap bakteri tertentu. Setiap <img alt=\"\" height=\"34\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/67173_421b5ddd9a615c99017cadb0f23594f5.png\" width=\"12\"/> hari bakteri membelah diri menjadi dua. Pada awal pengamatan terdapat 2 bakteri. Jika setiap 2 hari <img alt=\"\" height=\"38\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/67173_7d34d2ec1b5adb5d52018be3dd4f536b.png\" width=\"15\"/> dari jumlah bakteri mati, banyaknya bakteri setelah tiga hari adalah....</p>",
+    "topik_soal": "barisan dan deret geometri.",
+    "opsi_jawaban": [
+      "<p>48 bakteri</p>",
+      "<p>64 bakteri</p>",
+      "<p>96 bakteri</p>",
+      "<p>128 bakteri</p>",
+      "<p>192 bakteri</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "6",
+    "bacaan_soal": "<p> </p> <p>Dari selembar karton berbentuk persegi yang berukuran sisi 30 cm akan dibuat kotak tanpa tutup, dengan cara menggunting empat persegi di setiap pojok karton, seperti pada gambar. Volume kotak terbesar yang dapat dibuat adalah ....</p> <p><img alt=\"\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/62193_925f43a370cc2bcce192c20158ee0776.png\"/></p>",
+    "topik_soal": "volume dan luas permukaan bangun ruang.",
+    "opsi_jawaban": [
+      "<p>2.000 cm³</p>",
+      "<p>3.000 cm³</p>",
+      "<p>4.000 cm³</p>",
+      "<p>5.000 cm³</p>",
+      "<p>6.000 cm³</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "7",
+    "bacaan_soal": "<p> </p> <p>Diketahui sin A = <img alt=\"\" data-latex=\"\\frac {1} {a}\" height=\"41\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/40142_b2b0e90fe3a7fb9c6dac4483037e80f8.png\" width=\"47\"/> , A adalah sudut tumpul. Nilai cos A = ….</p>",
+    "topik_soal": "perbandingan trigonometri (sinus, kosinus, tangen, kotangen, sekan, kosekan).",
+    "opsi_jawaban": [
+      "<p><img alt=\"\" data-latex=\"\\frac {a} {\\sqrt {{a}^{2\\, }+1}}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/40142_8f89379a74f84bb7135a6a4cfe93efe8.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {1} {\\sqrt {{a}^{2}+1}}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/40142_90283f302d3db0e305be26ebf7774d94.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {\\sqrt {{a}^{2}-1}} {a}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/40142_8c51847f8f3cffa26b1b63abeb79ad05.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"-\\frac {\\sqrt {{a}^{2}-1}} {a}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/40142_8b77a789f8a25d8af19266963c579ec3.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"-\\frac {\\sqrt {{a}^{2}+1}} {a}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/40142_672a861796e5d4bc135fbc5a1b282873.png\"/></p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "8",
+    "bacaan_soal": "<p> </p> <p>Diagram batang berikut menunjukkan produksi pakaian yang dikelola Bu Rahmi selama tahun 2020 dari bulan Januari sampai bulan Desember.</p> <p><img alt=\"\" height=\"250\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/20035_8290fb5c5d179db0ca8d6f0a8a445d0d.png\" width=\"501\"/></p> <p>Peningkatan tertinggi jumlah produksi pakaian Bu Rahmi terjadi pada bulan ....</p>",
+    "topik_soal": "penyajian data dalam bentuk diagram batang, diagram garis, diagram lingkaran, grafik, tabel, dan bentuk visual",
+    "opsi_jawaban": [
+      "<p>April</p>",
+      "<p>Juni</p>",
+      "<p>Juli</p>",
+      "<p>September</p>",
+      "<p>November</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "9",
+    "bacaan_soal": "<p> </p> <p>Perhatikan data pada tabel nilai hasil ulangan matematika kelas XI SMA Z. Modus dari data tersebut adalah ....</p> <p> <img alt=\"\" height=\"151\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/17865_03efca3015969271cc01dd691c5df6f3.png\" width=\"203\"/></p> <p> </p>",
+    "topik_soal": "ukuran pemusatan dan penyebaran data tunggal dan data kelompok",
+    "opsi_jawaban": [
+      "<p>64,0</p>",
+      "<p>64,5</p>",
+      "<p>65,0</p>",
+      "<p>65,5</p>",
+      "<p>66,0</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "10",
+    "bacaan_soal": "<p> </p> <p>Sekolah P akan mengirim 2 perwakilan grup band untuk Pentas Musik Nusantara pada peringatan Hari Sumpah Pemuda. Sekolah tersebut memiliki 6 grup band putra dan 4 grup band putri. Berdasarkan penilaian, kemampuan grup band tersebut merata sehingga penentuan kedua perwakilan grup band dilakukan dengan cara mengambil secara acak satu persatu. Peluang terambil grup band putra pada pengambilan pertama dan grup band putri pada pengambilan kedua adalah ....</p>",
+    "topik_soal": "peluang suatu kejadian majemuk",
+    "opsi_jawaban": [
+      "<p><img alt=\"\" data-latex=\"\\frac {1} {5}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/93353_ba88e2a4dfbcc2652503c8b70fa7d0eb.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {6} {25}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/93353_074491fe27246e89aa2eac2f8bcf31f8.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {4} {15}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/93353_139a68813cbdea07eca780390d59ed63.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {2} {5}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/93353_360ffa720383cf957b4e69cdf09e26b3.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {13} {25}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/93353_8487725a4d4d086db474b71486a60fe6.png\"/></p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "11",
+    "bacaan_soal": "<p> </p> <p> <img alt=\"\" data-latex=\"\\frac {1} {4}+\\, \\frac {7} {4}\\, \\times \\, \\frac {8} {21}\\, =\\, ....\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/13733_f5d65862b7fd46841091085827fb3783.png\"/></p>",
+    "topik_soal": "operasi bilangan (penjumlahan, pengurangan, perkalian, pembagian, dan gabungannya), beserta sifat-si",
+    "opsi_jawaban": [
+      "<p><img alt=\"\" data-latex=\"\\frac {8} {21}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/56549_a3d3e4919f37d1b31d8095fa8e333a1f.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {8} {11}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/56549_030dce7f7746acd4bc4b471c044542b8.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {11} {12}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/56549_db302896bfc802d93220fbace3a48da1.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {16} {21}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/56549_44e708f4b28ce9544fcfdb048c866712.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"2\\frac {8} {21}\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/56549_6f0950c1f5d925ef987bbb586879b2e6.png\"/></p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "14",
+    "bacaan_soal": "<p><img alt=\"\" height=\"129\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/67107_be11e2276f265c5b6e2674d8ba2d2c3d.png\" width=\"453\"/></p> <p><span style=\"font-family: 'times new roman', times; font-size: 16px;\">Putuskan apakah dengan tambahan informasi Pernyataan (1) dan </span><br/><span style=\"font-family: 'times new roman', times; font-size: 16px;\">Pernyataan (2) berikut cukup untuk menjawab pertanyaan tersebut!</span><br/><span style=\"font-family: 'times new roman', times; font-size: 16px;\">(1) Luas trapesium ABCD = 24. </span><br/><span style=\"font-family: 'times new roman', times; font-size: 16px;\">(2) BC = 10 dan CD = 5.</span></p>",
+    "topik_soal": "Geometri dan Pengukuran (Materi)Pengukuran (Submateri)Memahami, mengaplikasikan, bernalar yang lebih dan tinggi untuk enyelesaikan permasalahan terkait keliling dan luas bangun datar",
+    "opsi_jawaban": [
+      "<p><span style=\"font-family: 'times new roman', times, serif;\">Pernyataan (1) SAJA cukup untuk menjawab pertanyaan, tetapi Pernyataan (2) SAJA tidak cukup. </span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif;\">Pernyataan (2) SAJA cukup untuk menjawab pertanyaan, tetapi Pernyataan (1) SAJA tidak cukup.</span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif;\">DUA pernyataan BERSAMA-SAMA cukup untuk menjawab pertanyaan, tetapi SATU pernyataan SAJA tidak cukup.</span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif;\">Pernyataan (1) SAJA cukup untuk menjawab pertanyaan dan Pernyataan (2) SAJA cukup.</span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">Pernyataan (1) dan Pernyataan (2) tidak cukup untuk menjawab pertanyaan.</span></p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "15",
+    "bacaan_soal": "<p>Suatu tangga dengan panjang 6 meter disandarkan pada dinding vertikal. Sudut yang dibentuk tangga dengan lantai adalah 60°.</p> <p><img alt=\"\" height=\"233\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/62066_59d3ef955657eaf8f5a160bbd6c2b198.png\" width=\"233\"/></p> <p>Tinggi dinding yang disentuh ujung atas tangga adalah ....</p>",
+    "topik_soal": "Perbandingan trigonometri (sinus, kosinus, tangen,   kotangen, sekan, kosekan)",
+    "opsi_jawaban": [
+      "<p>3 meter</p>",
+      "<p>3√2 meter</p>",
+      "<p>3√3 meter</p>",
+      "<p>4√2 meter</p>",
+      "<p>4√3 meter</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "20",
+    "bacaan_soal": "<p>Luki adalah panitia bazar di sekolahnya. Dia mendapat tugas dari ketua pelaksana untuk membuat kupon. Dia ingin di setiap kupon memiliki kode akses yang unik. Kode akses kupon bazar itu memiliki lima karakter dengan format sebagai berikut:</p> <p><img alt=\"\" height=\"89\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/21232_49c208306a27969b494b0ae6af1cdaab.png\" width=\"101\"/> </p> <p>dengan A, B, dan C menyatakan huruf, serta X dan Y menyatakan angka. Tidak boleh ada angka dan huruf yang diulang. Berapakah berapa banyak kode akses berbeda yang dapat dibuat</p>",
+    "topik_soal": "aturan pencacahan (aturan penjumlahan, aturan perkalian, permutasi, dan kombinasi)",
+    "opsi_jawaban": [
+      "<p>1.263.600</p>",
+      "<p>1.352.000</p>",
+      "<p>1.404.000</p>",
+      "<p>1.423.656</p>",
+      "<p>1.757.600</p>"
+    ],
+    "jawaban_benar": "C"
+  }
+]

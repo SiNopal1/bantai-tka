@@ -1,0 +1,37 @@
+[
+  {
+    "nomor_soal": "1",
+    "bacaan_soal": "<p class=\"card-text\"><p>Perhatikan gambar tangkapan citra satelit berikut!</p>\n<p><img alt=\"\" src=\"/tka/cbt_images/17311_ac644e6d73c9f1e819eeca5e4d64af47.png\"/></p>\n<p>berdasarkan tangkapan citra satelit tersebut, seorang kepala daerah mengidentifikasi terdapatnya indikasi banjir pada wilayah yang berbatasan dengan laut.</p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>1</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menerapkan penelitian geografi untuk memecahkan permasalahan kewilayahan</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A, C</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Berdasarkan informasi tersebut, seorang peneliti akan menindaklanjuti permasalahan tersebut. Rumusan masalah manakah yang tepat?</p>\n</p>",
+    "topik_soal": "Menerapkan penelitian geografi untuk memecahkan permasalahan kewilayahan",
+    "opsi_jawaban": [
+      "<p>Bagaimana pengaruh bencana terhadap perekonomian penduduk?</p>",
+      "<p>Apa saja jenis-jenis bencana alam yang berdampak luas terhadap masyarakat?</p>",
+      "<p>Bagaimana hubungan antara pasang air laut dengan topografi wilayah?</p>",
+      "<p>Mengapa siswa perlu mengetahui pentingnya menjaga lingkungan secara berkelanjutan?</p>",
+      "<p>Bagaimana bentuk mitigasi bencana beserta dengan contohnya yang konkret di sekolah?</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "C"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "8",
+    "bacaan_soal": "<p class=\"card-text\"><p>Perhatikan data Perdagangan dan Kerja Sama regional berikut!</p>\n<table width=\"563\">\n<tbody>\n<tr>\n<td width=\"132\">\n<p> </p>\n</td>\n<td width=\"85\">\n<p>Indonesia</p>\n</td>\n<td width=\"91\">\n<p>Malaysia</p>\n</td>\n<td width=\"87\">\n<p>Thailand</p>\n</td>\n<td width=\"80\">\n<p>Vietnam</p>\n</td>\n<td width=\"88\">\n<p>Singapura</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"6\" width=\"563\">\n<p><strong>Perdagangan Internasional (Miliar USD)</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Ekspor Migas (Miliar USD)</p>\n</td>\n<td width=\"85\">\n<p>52</p>\n</td>\n<td width=\"91\">\n<p>40</p>\n</td>\n<td width=\"87\">\n<p>30</p>\n</td>\n<td width=\"80\">\n<p>20</p>\n</td>\n<td width=\"88\">\n<p>18</p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Ekspor Non-Migas (Miliar USD)</p>\n</td>\n<td width=\"85\">\n<p>263</p>\n</td>\n<td width=\"91\">\n<p>250</p>\n</td>\n<td width=\"87\">\n<p>490</p>\n</td>\n<td width=\"80\">\n<p>440</p>\n</td>\n<td width=\"88\">\n<p>822</p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Impor Migas (Miliar USD)</p>\n</td>\n<td width=\"85\">\n<p>63</p>\n</td>\n<td width=\"91\">\n<p>50</p>\n</td>\n<td width=\"87\">\n<p>35</p>\n</td>\n<td width=\"80\">\n<p>25</p>\n</td>\n<td width=\"88\">\n<p>16</p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Impor Non-Migas (Miliar USD)</p>\n</td>\n<td width=\"85\">\n<p>117</p>\n</td>\n<td width=\"91\">\n<p>110</p>\n</td>\n<td width=\"87\">\n<p>465</p>\n</td>\n<td width=\"80\">\n<p>420</p>\n</td>\n<td width=\"88\">\n<p>824</p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p><strong>Pariwisata</strong></p>\n</td>\n<td width=\"85\">\n<p> </p>\n</td>\n<td width=\"91\">\n<p> </p>\n</td>\n<td width=\"87\">\n<p> </p>\n</td>\n<td width=\"80\">\n<p> </p>\n</td>\n<td width=\"88\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Jumlah Wisatawan Asing (Juta Orang)</p>\n</td>\n<td width=\"85\">\n<p>10,5</p>\n</td>\n<td width=\"91\">\n<p>15,3</p>\n</td>\n<td width=\"87\">\n<p>28</p>\n</td>\n<td width=\"80\">\n<p>8,5</p>\n</td>\n<td width=\"88\">\n<p>19</p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Asal Wisatawan Terbanyak</p>\n</td>\n<td width=\"85\">\n<p>Malaysia, Tiongkok</p>\n</td>\n<td width=\"91\">\n<p>Singapura, Indonesia</p>\n</td>\n<td width=\"87\">\n<p>Tiongkok, Malaysia</p>\n</td>\n<td width=\"80\">\n<p>Korea Selatan, Jepang</p>\n</td>\n<td width=\"88\">\n<p>Indonesia, Malaysia</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"6\" width=\"563\">\n<p><strong>Kerja Sama Regional dan Global (jumlah kesepakatan)</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Kerja Sama Ekonomi</p>\n</td>\n<td width=\"85\">\n<p>5</p>\n</td>\n<td width=\"91\">\n<p>4</p>\n</td>\n<td width=\"87\">\n<p>5</p>\n</td>\n<td width=\"80\">\n<p>3</p>\n</td>\n<td width=\"88\">\n<p>6</p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Kerja Sama Lingkungan</p>\n</td>\n<td width=\"85\">\n<p>4</p>\n</td>\n<td width=\"91\">\n<p>3</p>\n</td>\n<td width=\"87\">\n<p>2</p>\n</td>\n<td width=\"80\">\n<p>2</p>\n</td>\n<td width=\"88\">\n<p>3</p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Kerja Sama Sosial</p>\n</td>\n<td width=\"85\">\n<p>3</p>\n</td>\n<td width=\"91\">\n<p>4</p>\n</td>\n<td width=\"87\">\n<p>3</p>\n</td>\n<td width=\"80\">\n<p>2</p>\n</td>\n<td width=\"88\">\n<p>3</p>\n</td>\n</tr>\n<tr>\n<td width=\"132\">\n<p>Kerja Sama Politik</p>\n</td>\n<td width=\"85\">\n<p>4</p>\n</td>\n<td width=\"91\">\n<p>3</p>\n</td>\n<td width=\"87\">\n<p>2</p>\n</td>\n<td width=\"80\">\n<p>3</p>\n</td>\n<td width=\"88\">\n<p>4</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>8</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis pemanfaatan SDA sesuai konteks wilayah dengan menggunakan informasi (peta, data) </td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A, B, dan D</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Berdasarkan data pariwisata Indonesia dan negara ASEAN tahun 2024, pilih semua pernyataan yang benar terkait pola kunjungan wisatawan dan pengaruh letak geografis Indonesia!</p>\n</p>",
+    "topik_soal": "Menganalisis pemanfaatan SDA sesuai konteks wilayah dengan menggunakan informasi (peta, data)",
+    "opsi_jawaban": [
+      "<p>Sebagian besar wisatawan asing ke Indonesia berasal dari kawasan ASEAN dan Asia Timur, mendukung konektivitas regional.</p>",
+      "<p>Meningkatnya kunjungan wisatawan dari Tiongkok mencerminkan perluasan pasar wisata Indonesia di luar ASEAN.</p>",
+      "<p>Jumlah wisatawan asing Indonesia lebih besar dari Thailand karena pengaruh posisi geografis Indonesia yang lebih strategis.</p>",
+      "<p>Lokasi Indonesia yang berada di jalur internasional memperbesar peluang akses wisatawan dari berbagai kawasan dunia.</p>",
+      "<p>Dominasi wisatawan dari Asia menunjukkan bahwa ASEAN belum menarik wisatawan dari kawasan Eropa secara signifikan.</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "B",
+      "D"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  }
+]

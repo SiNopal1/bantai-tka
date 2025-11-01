@@ -1,0 +1,98 @@
+[
+  {
+    "nomor_soal": "3",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>3</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis keterkaitan struktur organ pada sistem reproduksi wanita dan fungsinya.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A, C, E</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Seorang wanita datang ke dokter spesialis kandungan berniat memasang IUD (<em>Intra Uterine Device</em>). Pemasangan IUD merupakan cara kontrasepsi jangka panjang. IUD berupa alat kecil terdiri dari bahan plastik yang lentur yang dimasukkan ke dalam rongga rahim, yang harus diganti jika sudah digunakan selama periode tertentu. </p>\n<p>Tujuan penggunaan IUD ini adalah .... <br/>Pilih semua jawaban benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis keterkaitan struktur organ pada sistem reproduksi wanita dan fungsinya.",
+    "opsi_jawaban": [
+      "<p>Mencegah terjadinya fertilisasi dengan mengganggu pergerakan sperma atau mencegah sperma mencapai sel telur.</p>",
+      "<p>Menghentikan kesuburan pada seorang wanita secara permanen sehingga tidak dapat hamil lagi.</p>",
+      "<p>Menghambat proses implantasi hasil pembuahan dengan menciptakan kondisi rahim yang kurang sesuai bagi embrio.</p>",
+      "<p>Menghalangi proses pembuahan dengan mencegah pelepasan sel telur di saluran reproduksi wanita.</p>",
+      "<p>Menurunkan kemampuan sperma dalam membuahi sel telur melalui pengaruh ion tembaga atau hormon pada alat tersebut.</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "C",
+      "E"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "9",
+    "bacaan_soal": "<p class=\"card-text\"><p> </p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>9</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis keterkaitan struktur organ pada sistem sirkulasi dan fungsinya.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>B</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Sudah 2 minggu Amir merasakan gangguan pada kesehatannya dengan gejala pucat, lesu, demam dan sering terjadi pendarahan pada hidungnya. Setelah diperiksa, dokter meminta Amir untuk melakukan uji darah di laboratorium dan diperoleh hasil seperti pada tabel berikut:</p>\n<table style=\"width: 694px;\">\n<tbody>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p><strong>Pemeriksaan</strong></p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p><strong>Hasil</strong></p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p><strong>Nilai Rujukan</strong></p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p><strong>Satuan</strong></p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"5\" style=\"width: 639px; text-align: center;\">\n<p><strong>Hematologi Rutin</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Trombosit</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>279</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>150 – 440</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>ribu sel/µL</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Hematokrit</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>32,6</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>35 – 47</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>%</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Hemoglobin</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>12,4</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>11,7 – 15,5</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>g/dL</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Eritrosit</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>4,18</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>3,8 – 5,2</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>juta sel/µL</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Leukosit</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>14,92</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>3,6 – 11,0</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>ribu sel/µL</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"5\" style=\"width: 639px; text-align: center;\">\n<p><strong>Jenis Leukosit</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Neutrofil</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>76,5</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>50 – 70</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>%</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Limfosit</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>6</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>24 – 40</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>%</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Monosit</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>6,4</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>2 – 8</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>%</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 173px; text-align: center;\">\n<p>Esinofil</p>\n</td>\n<td style=\"width: 126.445px; text-align: center;\">\n<p>0,9</p>\n</td>\n<td style=\"width: 146.555px; text-align: center;\">\n<p>2 - 4</p>\n</td>\n<td style=\"width: 183px; text-align: center;\">\n<p>%</p>\n</td>\n<td style=\"width: 10px; text-align: center;\">\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Manakah pernyataan yang tepat terkait hasil uji laboratorium klinis darah Amir tersebut?</p>\n</p>",
+    "topik_soal": "Menganalisis keterkaitan struktur organ pada sistem sirkulasi dan fungsinya.",
+    "opsi_jawaban": [
+      "<p>Amir mengalami gangguan fungsi jantung sehingga sel darah putih diproduksi dalam jumlah tinggi.</p>",
+      "<p>Amir mengalami kondisi produksi sel darah putih melebihi batas normal akibat gangguan pada sumsum tulang belakang.</p>",
+      "<p>Amir mengalami gangguan fungsi hati sehingga perombakan sel darah putih berlangsung lambat</p>",
+      "<p>Terjadi penyumbatan pada pembuluh darah dan terjadi hemolisis (pecah) sehingga sel darah putih aktif diproduksi.</p>",
+      "<p>Terjadi penghancuran sel-sel darah merah dalam hati yang terlalu cepat dan banyak sehingga beberapa jenis leukosit jumlahnya lebih banyak.</p>"
+    ],
+    "jawaban_benar": [
+      "B"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "10",
+    "bacaan_soal": "<p class=\"card-text\">\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>10</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis peran sistem imun terhadap kekebalan tubuh.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A, C</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Sindrom Stevens-Johnson (SSJ) merupakan penyakit kulit dan mukosa yang berbahaya dan dapat mengakibatkan kematian. Sel-sel kulit bagian epidermis mengelupas dan memisahkan diri dari dermis, dengan gejala bercak kemerahan, perdarahan di bawah kulit, melepuh seperti luka bakar, sampai terkelupas. SSJ bukan merupakan penyakit menular, tetapi dipicu antara lain oleh hipersensitivitas terhadap obat tertentu.</p>\n<p>Bagaimana mekanisme pertahanan tubuh pada penderita sindrom tersebut?</p>\n<p>Pilih semua jawaban benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis peran sistem imun terhadap kekebalan tubuh.",
+    "opsi_jawaban": [
+      "<p>Immunoglobulin G berperan dalam pertahanan tubuh sekunder terhadap antigen yang sama ketika masuk lagi ke dalam tubuh.</p>",
+      "<p>Immunoglobulin M mengikat antigen menjadi gumpalan atau di aglutinasi agar mudah di fagositosis oleh makrofag.</p>",
+      "<p>Imunoglobulin E yang menempel pada sel mast dan bereaksi dengan antigen sehingga memicu reaksi alergi pada jaringan tubuh.</p>",
+      "<p>Sel yang terinfeksi antigen menghasilkan sejenis protein yang akan berikatan dengan sel yang tidak terinfeksi untuk mencegah perbanyakan antigen.</p>",
+      "<p>Antibodi yang terbentuk dalam plasma bekerja sama dengan protein komplemen untuk melisis sel asing yang masuk ke tubuh.</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "C"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "12",
+    "bacaan_soal": "<p class=\"card-text\">\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>12</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis proses metabolisme dan peran enzim.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>Pernyataan 1, Pernyataan 2, Pernyataan 3, dan Pernyataan 5</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Dalam sebuah penelitian mengenai penyakit pada sel, para ilmuwan menemukan bahwa pada beberapa sel tubuh pasien, retikulum endoplasma kasar (RE kasar) dan retikulum endoplasma halus (RE halus) mengalami kerusakan parah. Hal ini menghambat beberapa fungsi penting dalam sel tersebut.</p>\n<p>Berdasarkan peranan RE kasar dan RE halus, apa kemungkinan yang dapat terjadi pada sel-sel pasien tersebut?</p>\n<p>Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis proses metabolisme dan peran enzim.",
+    "opsi_jawaban": [
+      "<p>Produksi protein terganggu, mengakibatkan sel tidak dapat melakukan fungsi-fungsi penting yang membutuhkan protein.</p>",
+      "<p>Sintesis lipid terhambat, sehingga kemampuan sel untuk memproduksi membran dan melakukan detoksifikasi berkurang.</p>",
+      "<p>Sel mengalami kesulitan dalam menyimpan kalsium, yang berpotensi mempengaruhi aktivitas seluler yang bergantung pada kalsium, seperti kontraksi otot.</p>",
+      "<p>Penurunan produksi ATP yang signifikan terjadi, karena sel tidak dapat menghasilkan energi dengan efisien.</p>",
+      "<p>Gangguan dalam pengangkutan protein dan sintesis lipid menyebabkan berbagai proses seluler terganggu.</p>"
+    ],
+    "jawaban_benar": ["A", "B", "C", "E"],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "13",
+    "bacaan_soal": "<p class=\"card-text\">\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>13</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis peran sistem imun terhadap kekebalan tubuh.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>Pernyataan 1, Pernyataan 3, dan Pernyataan 5</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Berikut adalah grafik data banyaknya kasus penderita Covid-19 sejak Maret 2020 hingga Mei 2025. Selama pandemi dilaksanakan pemberian vaksin kepada masyarakat. Vaksin primer diberikan mulai tanggal 13 Januari 2021 dan Vaksin booster 1 diberikan mulai Januari 2022. Terjadi tren penurunan kasus Covid 19 setelah dilaksanakannya vaksinasi. Data ini menunjukkan pentingnya vaksinasi dalam menurunkan resiko terinfeksi virus korona.</p>\n<p><img alt=\"\" height=\"315\" src=\"/tka/cbt_images/26825_2a593e0140eaca5b9df5150ed09bbce9.png\" width=\"541\"/></p>\n<p>Berdasarkan data dan pengetahuanmu tentang sistem imun, manakah pernyataan berikut yang logis dan didukung data tersebut?</p>\n<p>Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis peran sistem imun terhadap kekebalan tubuh.",
+    "opsi_jawaban": [
+      "<p>Penurunan jumlah kasus setelah Januari 2022 menunjukkan bahwa booster memiliki dampak besar terhadap kekebalan seseorang.</p>",
+      "<p>Jika vaksin booster tidak diberikan, kemungkinan jumlah kasus tetap menurun karena vaksin primer sudah cukup efektif.</p>",
+      "<p>Vaksin primer dan booster bekerja sama membentuk kekebalan kolektif, sehingga menurunkan jumlah kasus secara bertahap.</p>",
+      "<p>Penurunan jumlah kasus terjadi secara alami karena vaksin primer menyebabkan virus tidak terlalu ganas.</p>",
+      "<p>Vaksin booster sudah efektif menurunkan jumlah kasus, namun perlu vaksin booster lanjutan untuk imunitas jangka panjang.</p>"
+    ],
+    "jawaban_benar": ["A", "C", "E"],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "19",
+    "bacaan_soal": "<p class=\"card-text\">\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>19</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Menganalisis keterkaitan struktur organ pada sistem ekskresi dan fungsinya.</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>D dan E</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Berdasarkan survei Ikatan Dokter Anak Indonesia, terjadi peningkatan kasus kerusakan ginjal pada anak usia 12-18 tahun di sepanjang tahun 2024. Penderita kerusakan ginjal yang parah perlu dibantu dengan cuci darah. Seorang murid bertanya, “Mengapa ginjalnya yang rusak, tetapi darahnya yang “dicuci?”.</p>\n<p>Apa penjelasan ilmiah secara fisiologis yang paling tepat untuk menjawab pertanyaan murid tersebut?</p>\n<p>Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "Menganalisis keterkaitan struktur organ pada sistem ekskresi dan fungsinya.",
+    "opsi_jawaban": [
+      "<p>Kerusakan ginjal mengganggu sirkulasi darah dan kemampuan sel darah merah dalam mengikat oksigen.</p>",
+      "<p>Ketika ginjal tidak berfungsi dengan baik, darah menjadi kotor karena adanya sel-sel darah yang mati.</p>",
+      "<p>Kegagalan ginjal dalam menyaring zat sisa pencernaan memungkinkan limbah tersebut masuk ke dalam pembuluh darah.</p>",
+      "<p>Terganggunya fungsi ginjal menyebabkan sisa metabolisme tidak dapat tersaring dan terbuang dalam urin.</p>",
+      "<p>Karena ginjal tidak mampu menyaring darah, maka zat-zat sisa seperti urea dan kreatinin tetap berada dalam darah.</p>"
+    ],
+    "jawaban_benar": [
+      "D",
+      "E"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  }
+]

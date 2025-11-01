@@ -1,0 +1,33 @@
+[
+  {
+    "nomor_soal": "16",
+    "bacaan_soal": "<p class=\"card-text\"><p><span style=\"font-family: 'times new roman', times; font-size: 16px;\">Rata-rata nilai ulangan 17 murid dari skala 100 adalah 83. Ada 3 murid yang mengikuti ujian susulan sehingga rata-rata nilai ulangan dari 20 murid menjadi 82.<br/></span></p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>16</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Data dan Peluang (Materi)<br>\r\nData  (Submateri)<br>\r\nMemahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait ukuran pemusatan dan penyebaran data tunggal dan data k</br></br></td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>Pernyataan 1, Pernyataan 2, Pernyataan 3, dan Pernyataan 4</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p><span style=\"font-family: 'times new roman', times; font-size: 16px;\">Tentukan semua pernyataan berikut yang benar terkait dengan nilai ketiga murid yang mengikuti ujian susulan! Jawaban benar lebih dari satu.</span></p>\n</p>",
+    "topik_soal": "Data dan Peluang (Materi)Data  (Submateri)Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait ukuran pemusatan dan penyebaran data tunggal dan data k",
+    "opsi_jawaban": [
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">Jumlah nilai ketiga murid yang mengikuti ujian susulan adalah 229. </span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">Rata-rata nilai ketiga murid yang mengikuti ujian susulan lebih dari 70. </span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">Nilai terendah dari ketiga murid yang mengikuti ujian susulan tidak kurang dari 29. </span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">Nilai tertinggi dari ketiga murid yang mengikuti ujian susulan lebih dari 76. </span></p>",
+      "<p><span style=\"font-family: 'times new roman', times, serif; font-size: 16px;\">Jangkauan data nilai ketiga murid yang mengikuti ujian susulan lebih dari dari 72. </span></p>"
+    ],
+    "jawaban_benar": ["A", "B", "C", "D"],
+    "bentuk_soal": "PGK MCMA"
+  },
+  {
+    "nomor_soal": "18",
+    "bacaan_soal": "<p class=\"card-text\"><p>Tagihan listrik bulanan di sebuah apartemen dihitung berdasarkan jumlah energi listrik (dalam kWh) yang digunakan. Apartemen tersebut masih menggunakan meteran listrik yang berbeda dari penggunaan token.</p>\n<p>Biaya tagihan listrik dihitung dengan rumus:<img alt=\"\" data-latex=\"f(x)\\, =\\, 1.350x\\, +\\, 25.000\" height=\"26\" src=\"/tka/cbt_images/44044_164f5392e1e6f44c3a774f14c12d5e37.png\" width=\"170\"/></p>\n<p>Keterangan:      </p>\n<p><img alt=\"\" data-latex=\"f(x)\" height=\"28\" src=\"/tka/cbt_images/44044_a8a06eb6d7abbbb34dc50b57ab3e11ad.png\" width=\"59\"/> : total tagihan listrik (dalam rupiah)</p>\n<p><img alt=\"\" data-latex=\"x\" height=\"27\" src=\"/tka/cbt_images/44044_8942e852504e3643bf634c418ea22ebe.png\" width=\"39\"/>  : jumlah pemakaian energi listrik (kwh)</p>\n<p>Andi merupakan salah satu penghuni apartemen tersebut yang menerima tagihan pembayaran listrik seperti terlihat pada gambar berikut:</p>\n<p style=\"text-align: center;\"><img alt=\"\" height=\"279\" src=\"/tka/cbt_images/44044_e631f09a579b3dc314ca01f2f776555c.png\" width=\"551\"/></p>\n<p>Dia menyadari bahwa penggunaan listrik sebulan terakhir lebih dari penggunaan listrik biasanya.</p>\n</p>\n<p>\n<table class=\"table table-bordered table-striped table-hover\">\n<tr>\n<th style=\"width: 150px;\">No Soal</th>\n<td>18</td>\n</tr>\n<tr>\n<th>Kompetensi</th>\n<td>Memahami, mengaplikasikan, dan bernalar yang lebih tinggi untuk menyelesaikan permasalahan terkait invers fungsi dan representasinya</td>\n</tr>\n<tr>\n<th>Sub Kompetensi</th>\n<td></td>\n</tr>\n<tr>\n<th>Bentuk Soal</th>\n<td>PGK MCMA</td>\n</tr>\n<!-- kunci -->\n<tr>\n<th>Kunci</th>\n<td>A dan B</td>\n</tr>\n</table>\n</p>\n<p class=\"card-text\"><p>Berdasarkan informasi tersebut, biasanya berapa besar penggunaan listrik di apartemen Andi?</p>\n<p>Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.</p>\n</p>",
+    "topik_soal": "invers fungsi dan representasinya",
+    "opsi_jawaban": [
+      "<p>85 kWh</p>",
+      "<p>90 kWh</p>",
+      "<p>100 kWh</p>",
+      "<p>120 kWh</p>",
+      "<p>137 kWh</p>"
+    ],
+    "jawaban_benar": [
+      "A",
+      "B"
+    ],
+    "bentuk_soal": "PGK MCMA"
+  }
+]

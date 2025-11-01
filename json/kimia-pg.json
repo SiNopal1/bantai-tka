@@ -1,0 +1,171 @@
+[
+  {
+    "nomor_soal": "1",
+    "bacaan_soal": "<p>Seorang siswa melakukan percobaan di laboratorium untuk membuat larutan buffer asam. Ia mencampurkan 20 mL larutan asam asetat 0,1 M dengan 20 mL larutan natrium asetat 0,1 M. Diketahui bahwa tetapan ionisasi asam asetat adalah Ka = 1 × 10⁻⁵.</p> <p>Berdasarkan data tersebut, tentukan pH larutan buffer yang terbentuk!</p>",
+    "topik_soal": "sistem persamaan linear multivariabel",
+    "opsi_jawaban": [
+      "<p>5 − log 5</p>",
+      "<p>5</p>",
+      "<p>7</p>",
+      "<p>9</p>",
+      "<p>9 + log 5</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "2",
+    "bacaan_soal": "<p>Salah satu senyawa alkana bercabang digunakan sebagai bahan aditif dalam bahan bakar untuk meningkatkan kualitas pembakaran. Struktur senyawa tersebut ditunjukkan pada gambar berikut.</p> <p><img alt=\"\" height=\"141\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/17088_295b9a7a96d0b1a26e60776261d8ee66.png\" width=\"381\"/></p> <p>Banyaknya atom C primer dan tersier berturut-turut adalah ....</p>",
+    "topik_soal": "Menganalisis sifat fisik dan kimia senyawa organik berdasarkan strukturnya serta mampu mendeskripsikan manfaatnya dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>5 dan 3</p>",
+      "<p>5 dan 2</p>",
+      "<p>5 dan 1</p>",
+      "<p>4 dan 2</p>",
+      "<p>4 dan1</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "4",
+    "bacaan_soal": "<p>Dalam sebuah percobaan laboratorium, dilakukan penguraian gas SO₃ pada suhu tertentu. Reaksi yang terjadi adalah:</p> <p>2SO<sub>3</sub>(<em>g</em>) →2SO<sub>2</sub>(<em>g</em>) +O<sub>2</sub>(<em>g</em>)</p> <p>Perubahan konsentrasi SO₃ diamati terhadap waktu dan hasilnya ditunjukkan pada grafik berikut.</p> <p style=\"text-align: center;\"><img alt=\"\" height=\"255\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/52646_7bcff0d2bb26acd27347a2cadd2a77bc.png\" width=\"308\"/></p> <p>Laju reaksi penguraian 2SO<sub>3</sub>(<em>g</em>) →2SO<sub>2</sub>(<em>g</em>) +O<sub>2</sub>(<em>g</em>) pada 40 detik pertama adalah ....</p>",
+    "topik_soal": "Menganalisis konsep laju dalam suatu reaksi serta faktor-faktor yang dapat mempengaruhinya",
+    "opsi_jawaban": [
+      "<p>2,0 × 10<sup>–2</sup> M/detik</p>",
+      "<p>2,0 × 10<sup>–1</sup> M/detik</p>",
+      "<p>2,5 × 10<sup>–2</sup> M/detik</p>",
+      "<p>2,5 × 10<sup>–1</sup> M/detik</p>",
+      "<p>5,0 × 10<sup>–2</sup> M/detik</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "5",
+    "bacaan_soal": "<p>Dalam kehidupan sehari-hari, larutan asam dan basa sering digunakan, misalnya dalam industri makanan, obat-obatan, maupun pembersih rumah tangga. Larutan asam dan basa jika dicampurkan dapat membentuk larutan dengan pH netral.</p> <p>Diketahui beberapa larutan berikut:</p> <table width=\"443\"> <tbody> <tr> <td width=\"74\"> <p><strong>Nomor</strong></p> </td> <td width=\"159\"> <p><strong>Nama Larutan</strong></p> </td> <td width=\"123\"> <p><strong>Konsentrasi</strong></p> </td> <td width=\"87\"> <p><strong>Volume</strong></p> </td> </tr> <tr> <td width=\"74\"> <p>(1)</p> </td> <td width=\"159\"> <p>Larutan HCl</p> </td> <td width=\"123\"> <p>0,1 M</p> </td> <td width=\"87\"> <p>10 mL</p> </td> </tr> <tr> <td width=\"74\"> <p>(2)</p> </td> <td width=\"159\"> <p>Larutan NaOH</p> </td> <td width=\"123\"> <p>0,2 M</p> </td> <td width=\"87\"> <p>10 mL</p> </td> </tr> <tr> <td width=\"74\"> <p>(3)</p> </td> <td width=\"159\"> <p>Larutan H<sub>2</sub>SO<sub>4</sub></p> </td> <td width=\"123\"> <p>0,1 M</p> </td> <td width=\"87\"> <p>10 mL</p> </td> </tr> <tr> <td width=\"74\"> <p>(4)</p> </td> <td width=\"159\"> <p>Larutan Mg(OH)<sub>2</sub></p> </td> <td width=\"123\"> <p>0,2 M</p> </td> <td width=\"87\"> <p>20 mL</p> </td> </tr> </tbody> </table> <p>Pasangan larutan jika dicampurkan menghasilkan campuran dengan pH netral ditunjukkan nomor ....</p>",
+    "topik_soal": "Menganalisis pH larutan berdasarkan sifat asam dan basa.",
+    "opsi_jawaban": [
+      "<p>(1) dan (2)</p>",
+      "<p>(2) dan (3)</p>",
+      "<p>(1) dan (4)</p>",
+      "<p>(1) dan (3)</p>",
+      "<p>(3) dan (4)</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "6",
+    "bacaan_soal": "<p>Diketahui notasi dua macam unsur :</p> <p><img alt=\"\" height=\"51\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/40850_7e8c2286ca5ed7acd2f3258e090b80ba.png\" width=\"51\"/>dan <img alt=\"\" height=\"51\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/40850_d18be82b3c1eb6c74e73d6942169a8c7.png\" width=\"51\"/></p> <p>Jika kedua unsur bersenyawa, hibridisasi atom pusat, geometri molekul, dan kepolaran senyawanya berturut-turut adalah ....</p>",
+    "topik_soal": "Menganalisis bentuk dan kepolaran molekul berdasarkan teori Pasangan Elektron Kulit Valensi (VSEPR) dan Teori  Domain elektron",
+    "opsi_jawaban": [
+      "<p><em>sp</em><sup>2</sup>; segitiga piramida; polar</p>",
+      "<p><em>sp</em><sup>2</sup>; segitiga planar; nonpolar</p>",
+      "<p><em>sp</em><sup>3</sup>; segitiga piramida; nonpolar</p>",
+      "<p><em>sp</em><sup>3</sup>; segitiga piramida; polar</p>",
+      "<p><em>sp</em><sup>3</sup>; oktahedral; polar</p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "7",
+    "bacaan_soal": "<p>Gas sulfur dioksida (SO₂) di udara dapat mengalami reaksi oksidasi menghasilkan sulfur trioksida (SO₃). Persamaan reaksi kimia tersebut dapat dituliskan dalam bentuk:</p> <p style=\"text-align: center;\"><em>a</em> SO2 + <em>b</em> O<sub>2</sub> → <em>c</em> SO<sub>3</sub></p> <p style=\"text-align: left;\"><span style=\"font-size: 20px;\"><sub>Untuk menyetarakan reaksi, nilai koefisien a, b, dan c harus ditentukan.</sub></span></p> <p>Nilai a, <em>b</em>, dan <em>c</em> berturut-turut adalah ....</p>",
+    "topik_soal": "Menerapkan perhitungan kimia untuk menyelesaikan masalah",
+    "opsi_jawaban": [
+      "<p>4, 3, dan 2</p>",
+      "<p>2, 3, dan 4</p>",
+      "<p>2, 1, dan 2</p>",
+      "<p>2, 1, dan 3</p>",
+      "<p>2, 1, dan 1</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "8",
+    "bacaan_soal": "<p style=\"text-align: justify;\">Sebuah laboratorium pengolahan limbah industri melakukan uji cepat untuk menentukan sisa ion perak setelah proses netralisasi dan pemisahan garam. Sebanyak 50 mL larutan AgNO₃ 0,01 M dicampurkan dengan 50 mL larutan NaCl 0,03 M dalam bejana gelas. Karena terbentuk endapan AgCl, sistem mencapai kesetimbangan yang dipengaruhi oleh tetapan kelarutan Ksp dari AgCl (diketahui Ksp=1×10<sup>−10</sup>).</p> <p>Berapakah konsentrasi ion Ag⁺ yang tersisa dalam larutan campuran setelah mencapai kesetimbangan</p>",
+    "topik_soal": "Menerapkan konsep energetika dalam suatu reaksi kimia untuk menyelesaikan masalah.",
+    "opsi_jawaban": [
+      "<p>1x10<sup>−10</sup> M</p>",
+      "<p>1x10<sup>−8</sup> M</p>",
+      "<p>2 x 10<sup>−8</sup> M</p>",
+      "<p>6,7 x 10<sup>−8 </sup>M</p>",
+      "<p>1x10<sup>−5</sup> M</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "9",
+    "bacaan_soal": "<p style=\"text-align: justify;\">Untuk mendinginkan adonan es doger, sejumlah urea dan NaCl dilarutkan dengan es berair hingga jenuh dalam bejana berbeda. Jika konsentrasi kedua larutan sama, penurunan titik beku larutan NaCl ternyata 2 kali lebih besar dibandingkan penurunan titik beku urea.</p> <p>Penjelasan dari fenomena tersebut adalah ....</p>",
+    "topik_soal": "Menganalisis parameter sifat koligatif larutan serta penerapannya dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>massa kedua zat sama</p>",
+      "<p>massa NaCl 2 kali lebih besar dibandingkan urea</p>",
+      "<p>massa urea 2 kali lebih besar dibandingkan NaCl</p>",
+      "<p>NaCl adalah garam biner</p>",
+      "<p>urea merupakan elektrolit lemah sedangkan NaCl elektrolit kuat</p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "10",
+    "bacaan_soal": "<p style=\"text-align: justify;\">Untuk mengetahui faktor yang memengaruhi laju korosi pada besi, dilakukan percobaan sederhana dengan merendam paku dalam beberapa kondisi sebagai berikut.</p> <p style=\"text-align: justify;\"><img alt=\"\" height=\"202\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/71157_7520159d7a2748dd3bba6cc49b6ba7a1.png\" width=\"315\"/></p> <p>Urutan laju terjadinya korosi paku dari yang paling cepat adalah ....</p>",
+    "topik_soal": "Menganalisis parameter sifat koligatif larutan serta penerapannya dalam kehidupan sehari-hari.",
+    "opsi_jawaban": [
+      "<p>(1), (2), (3)</p>",
+      "<p>(2), (1), (3)</p>",
+      "<p>(2), (3), (1)</p>",
+      "<p>(3), (1), (2)</p>",
+      "<p>(3), (2), (1)</p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "12",
+    "bacaan_soal": "<p>Sekelompok peneliti kimia lingkungan sedang meneliti kandungan bahan organik dalam limbah cair industri makanan. Mereka berhasil memurnikan satu senyawa organik utama, yang diketahui hanya tersusun atas unsur karbon (C), hidrogen (H), dan oksigen (O).</p> <p>Dari hasil uji laboratorium, senyawa tersebut memiliki komposisi massa sebagai berikut:</p> <ul> <li>40% karbon</li> <li>6,7% hidrogen</li> <li>sisanya adalah oksigen</li> </ul> <p>Melalui spektrometri massa, diketahui bahwa massa molar senyawa tersebut adalah 180 g/mol.</p> <p>Mereka menyimpulkan bahwa rumus empiris dan rumus molekul senyawa itu adalah CH₂O. Apakah kesimpulan tersebut benar (Ar C=12; H=1; dan O=16)</p>",
+    "topik_soal": "Materi : Kimia DasarSubmateri : StoikiometriMenerapkan perhitungan kimia untuk menyelesaikan masalah",
+    "opsi_jawaban": [
+      "<p>Benar, karena CH₂O adalah rumus empiris dan sesuai dengan rumus molekulnya.</p>",
+      "<p>Benar, karena rumus molekul harus sama dengan rumus empiris.</p>",
+      "<p>Salah, karena rasio mol tidak sesuai dengan komposisi yang diberikan.</p>",
+      "<p>Salah, karena massa molar menunjukkan bahwa rumus molekulnya adalah C₆H₁₂O₆.</p>",
+      "<p>Salah, karena rumus empiris adalah CH₂O tetapi rumus molekulnya adalah C4H8O4.</p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "13",
+    "bacaan_soal": "<p>Suatu reaksi asam basa dapat didasarkan pada beberapa teori, yaitu teori asam basa Arrhenius, Bronsted-Lowry, dan Lewis.</p> <p>Perhatikan reaksi di bawah ini.</p> <p>H<sub>2</sub>PO<sub>4</sub>- + H<sub>2</sub>O → HPO<sub>4</sub><sup>2-</sup> + H<sub>3</sub>O+ </p> <p> </p> <p>Berdasarkan reaksi tersebut, pernyataan yang benar mengenai reaksi asam basa berdasarkan teori Bronsted-Lowry adalah ….</p>",
+    "topik_soal": "Materi : Kimia AnalitikSubmateri : Larutan dan SifatnyaMenganalisis sifat larutan berdasarkan teori dan konsep asam basa",
+    "opsi_jawaban": [
+      "<p>H<sub>2</sub>O menerima ion hidrogen dari H<sub>2</sub>PO<sub>4- </sub>dan bersifat asam</p>",
+      "<p>H<sub>3</sub>O<sup>+ </sup>memberikan ion hidrogen kepada H<sub>2</sub>O dan bersifat asam</p>",
+      "<p>H<sub>2</sub>PO<sub>4- </sub>memberikan ion hidrogen kepada H<sub>2</sub>O dan bersifat asam</p>",
+      "<p>H<sub>2</sub>PO<sub>4- </sub>memberikan ion hidrogen kepada H<sub>2</sub>O dan bersifat basa</p>",
+      "<p>H<sub>2</sub>PO<sub>4</sub><sub>-</sub> memberikan ion hidrogen kepada HPO<sub>42</sub><sub>-</sub> dan bersifat asam</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "19",
+    "bacaan_soal": "<p>Pak Ardi adalah seorang teknisi proses yang bekerja di sebuah industri kimia yang memproduksi gas fluorokarbon, bahan baku penting untuk industri pendingin dan semikonduktor. Salah satu tahap yang dia awasi adalah dekomposisi karbonil fluorida (COF₂) dalam reaktor tertutup.</p> <p>Reaksi yang terjadi dalam salah satu reaktor adalah:</p> <p style=\"text-align: center;\">2COF<sub>2</sub>(<em>g</em>) ⇋ CO<sub>2</sub>(<em>g</em>) + CF<sub>4</sub>(<em>g</em>)</p> <p>Dalam suatu pengujian, di dalam wadah 5 liter terdapat 1 mol COF<sub>2</sub> yang terurai. Setelah beberapa waktu, reaksi mencapai kesetimbangan dengan nilai tetapan kesetimbangan (Kc) pada suhu tersebut adalah 4.</p> <p>Banyaknya COF<sub>2</sub> yang terdapat dalam wadah setelah reaksi mencapai kesetimbangan adalah….</p>",
+    "topik_soal": "Menganalisis konsep/proses kimia yang berkaitan dengan reaksi kesetimbangan",
+    "opsi_jawaban": [
+      "<p><img alt=\"\" data-latex=\"\\frac {1} {3}\\, mol\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/03021_ca03c76a5d5846d4cfe1dd4d7a355db6.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {2} {3}\\, mol\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/03021_4825cde15bd4de862663d127ecfb5898.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {1} {5}\\, mol\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/03021_f7b3ed860f0470089788cfa53e38d65f.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {1} {15}\\, mol\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/03021_a94e3bd64ce5527752316038adcf7c8a.png\"/></p>",
+      "<p><img alt=\"\" data-latex=\"\\frac {2} {15}\\, mol\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/03021_53f1751cc9b6fe1e7f978add03d3e0ba.png\"/></p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "20",
+    "bacaan_soal": "<p>Berikut adalah set percobaan yang dilakukan untuk menentukan laju suatu reaksi A(<em>aq</em>) + B(<em>s</em>) → Produk:</p> <table width=\"532\"> <thead> <tr> <td width=\"128\"> <p><strong>Percobaan</strong></p> </td> <td width=\"109\"> <p><strong>[A] (mol/L)</strong></p> </td> <td width=\"113\"> <p><strong>B (<em>gram</em>)</strong></p> </td> <td width=\"74\"> <p><strong><em>T</em></strong><strong> (<sup>o</sup>C)</strong></p> </td> <td width=\"108\"> <p><strong>Katalis (%)</strong></p> </td> </tr> </thead> <tbody> <tr> <td width=\"128\"> <p>1</p> </td> <td width=\"109\"> <p>0,1</p> </td> <td width=\"113\"> <p>1 (granul)</p> </td> <td width=\"74\"> <p>30</p> </td> <td width=\"108\"> <p>1</p> </td> </tr> <tr> <td width=\"128\"> <p>2</p> </td> <td width=\"109\"> <p>0,5</p> </td> <td width=\"113\"> <p>1 (serbuk)</p> </td> <td width=\"74\"> <p>30</p> </td> <td width=\"108\"> <p>1</p> </td> </tr> <tr> <td width=\"128\"> <p>3</p> </td> <td width=\"109\"> <p>0,1</p> </td> <td width=\"113\"> <p>1 (granul)</p> </td> <td width=\"74\"> <p>60</p> </td> <td width=\"108\"> <p>1</p> </td> </tr> <tr> <td width=\"128\"> <p>4</p> </td> <td width=\"109\"> <p>0,5</p> </td> <td width=\"113\"> <p>2 (granul)</p> </td> <td width=\"74\"> <p>60</p> </td> <td width=\"108\"> <p>5</p> </td> </tr> <tr> <td width=\"128\"> <p>5</p> </td> <td width=\"109\"> <p>0,1</p> </td> <td width=\"113\"> <p>2 (serbuk)</p> </td> <td width=\"74\"> <p>60</p> </td> <td width=\"108\"> <p>5</p> </td> </tr> <tr> <td width=\"128\"> <p>6</p> </td> <td width=\"109\"> <p>0,1</p> </td> <td width=\"113\"> <p>2 (serbuk)</p> </td> <td width=\"74\"> <p>30</p> </td> <td width=\"108\"> <p>5</p> </td> </tr> </tbody> </table> <p>Pasangan set percobaan yang dapat dilakukan untuk mengetahui pengaruh suhu terhadap laju reaksi adalah….</p>",
+    "topik_soal": "Menganalisis konsep laju dalam suatu reaksi serta faktor-faktor yang dapat mempengaruhinya",
+    "opsi_jawaban": [
+      "<p>1 dan 3</p>",
+      "<p>2 dan 5 </p>",
+      "<p>3 dan 4</p>",
+      "<p>2 dan 6</p>",
+      "<p>4 dan 6</p>"
+    ],
+    "jawaban_benar": "A"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "nomor_soal": "2",
+    "bacaan_soal": "<p>Perhatikan kurva permintaan dan penawaran barang berikut!</p> <p><img alt=\"\" height=\"328\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/41254_e97702c06716fdf454c7a81d7f40036d.png\" width=\"461\"/></p> <p>Berdasarkan kurva tersebut, bentuk kurva fungsi permintaan yang benar adalah ....</p>",
+    "topik_soal": "",
+    "opsi_jawaban": [
+      "<p>Qd = 10P – 500</p>",
+      "<p>Qd = -10P + 3500</p>",
+      "<p>Qd = 0,1P + 500</p>",
+      "<p>Qd = -0,1P + 4.000</p>",
+      "<p>Qd = -0,1P + 3.500</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "3",
+    "bacaan_soal": "<p>Daftar harga tomat di pasar tradisional di Kota B bulan Januari tahun 2024 sebagai berikut:</p> <table width=\"519\"> <tbody> <tr> <td width=\"61\"> <p><strong>No.</strong></p> </td> <td width=\"157\"> <p><strong>Harga</strong></p> </td> <td width=\"166\"> <p><strong>Permintaan/Kg</strong></p> </td> <td width=\"135\"> <p><strong>Penawaran/Kg</strong></p> </td> </tr> <tr> <td width=\"61\"> <p>1.</p> </td> <td width=\"157\"> <p>Rp9.000,00</p> </td> <td width=\"166\"> <p>800</p> </td> <td width=\"135\"> <p>1.000</p> </td> </tr> <tr> <td width=\"61\"> <p>2.</p> </td> <td width=\"157\"> <p>Rp10.000,00</p> </td> <td width=\"166\"> <p>600</p> </td> <td width=\"135\"> <p>1.200</p> </td> </tr> </tbody> </table> <p>Dari data tersebut, maka titik keseimbangan pasar dengan kuantitas (Q); harga (P) adalah ....</p>",
+    "topik_soal": "",
+    "opsi_jawaban": [
+      "<p>600; 10.000</p>",
+      "<p>800; 9.000</p>",
+      "<p>900; 8.500</p>",
+      "<p>1.800; 9.000</p>",
+      "<p>1.800; 10.000</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "4",
+    "bacaan_soal": "<p>Tabel pendapatan Negara Astina, Negara Alengka, dan Negara Amarta selama tahun 2022 dan 2023!</p> <table> <tbody> <tr> <td rowspan=\"2\"> <p>No.</p> </td> <td rowspan=\"2\" width=\"140\"> <p>Negara</p> </td> <td colspan=\"2\" width=\"217\"> <p>Pendapatan Nasional (dalam Jutaan rupiah)</p> </td> <td colspan=\"2\" width=\"198\"> <p>Jumlah Penduduk</p> <p>(dalam Jutaan)</p> </td> </tr> <tr> <td width=\"124\"> <p>2022</p> </td> <td width=\"93\"> <p>2023</p> </td> <td width=\"123\"> <p>2022</p> </td> <td> <p>2023</p> </td> </tr> <tr> <td> <p> 1.</p> </td> <td width=\"140\"> <p>Negara Astina</p> </td> <td width=\"124\"> <p>274.700</p> </td> <td width=\"93\"> <p>283.300</p> </td> <td width=\"123\"> <p>50</p> </td> <td> <p>51</p> </td> </tr> <tr> <td> <p> 2.</p> </td> <td width=\"140\"> <p>Negara Alengka</p> </td> <td width=\"124\"> <p>305.000</p> </td> <td width=\"93\"> <p>326.600</p> </td> <td width=\"123\"> <p>30</p> </td> <td> <p>31</p> </td> </tr> <tr> <td> <p> 3.</p> </td> <td width=\"140\"> <p>Negara Amarta</p> </td> <td width=\"124\"> <p>878.040</p> </td> <td width=\"93\"> <p>917.700</p> </td> <td width=\"123\"> <p>250</p> </td> <td> <p>255,5</p> </td> </tr> </tbody> </table> <p>Berdasarkan data tersebut, kesimpulan yang dapat di ambil adalah ...</p>",
+    "topik_soal": "",
+    "opsi_jawaban": [
+      "<p>Urutan pendapatan perkapita dari yang tertinggi pada tahun 2022 yaitu Negara Astina, Negara Alengka, dan Negara Amarta.</p>",
+      "<p>Urutan pendapatan perkapita dari yang tertinggi tahun 2023 yaitu Negara Alengka, Negara Amarta, dan Negara Astina.</p>",
+      "<p>Urutan pendapatan perkapita dari yang terendah tahun 2023 yaitu Negara Amarta, Negara Alengka, dan Negara Astina.</p>",
+      "<p>Negara yang mempunyai kenaikan pendapatan perkapita tertinggi tahun 2022 Negara Amarta.</p>",
+      "<p>Negara yang mempunyai pendapatan perkapita tertinggi pada tahun 2022 dan 2023 yaitu Negara Alengka.</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "5",
+    "bacaan_soal": "<p>Tahun ini pemerintah mulai membangun banyak infrastruktur. Salah satunya adalah pembangunan 13 waduk baru. Waduk tersebut tersebar di seluruh wilayah Indonesia. Sekarang dari 7,2 juta hektare (Ha) luas irigasi pertanian di Indonesia, baru sekitar 11% yang memanfaatkan air tampungan waduk. Sisanya masih memanfaatkan air hujan, sehingga selalu terancam kekeringan saat musim kemarau tiba. Apabila 13 waduk baru tersebut terealisasi, lahan irigasi waduk dapat meningkat dua kali lipat menjadi 1,45 juta Ha.</p> <p>Berdasar ilustrasi tersebut, yang merupakan kebijakan pembangunan pemerintah Indonesia dalam hal ….</p>",
+    "topik_soal": "",
+    "opsi_jawaban": [
+      "<p>penguatan kelembagaan masyarakat dan usaha kecil rumahan</p>",
+      "<p>penguatan ketahanan pangan dan stabilisasi produksi pangan nasional</p>",
+      "<p>pemanfaatan sumber daya alam dan manusia agar lebih bermanfaat</p>",
+      "<p>penguatan sinergi antara SDM, IPTEK dengan industri pangan</p>",
+      "<p>pengembangan sektor pertanian dan infrastruktur pedesaan</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "6",
+    "bacaan_soal": "<p>Berikut data Produk Domestik Bruto (PDB) Negara Nusa Harapan pada 4 tahun terakhir.</p> <table width=\"304\"> <tbody> <tr> <td width=\"108\"> <p><strong>Tahun</strong></p> </td> <td width=\"196\"> <p><strong>PDB</strong></p> </td> </tr> <tr> <td width=\"108\"> <p>2021</p> </td> <td width=\"196\"> <p>Rp7.500 triliun</p> </td> </tr> <tr> <td width=\"108\"> <p>2022</p> </td> <td width=\"196\"> <p>Rp7.600 triliun</p> </td> </tr> <tr> <td width=\"108\"> <p>2023</p> </td> <td width=\"196\"> <p>Rp7.800 triliun</p> </td> </tr> <tr> <td width=\"108\"> <p>2024</p> </td> <td width=\"196\"> <p>Rp8.000 triliun</p> </td> </tr> </tbody> </table> <p>Berdasarkan data tersebut, laju pertumbuhan ekonomi Negara Nusa Harapan pada periode 2023-2024 adalah ….</p>",
+    "topik_soal": "",
+    "opsi_jawaban": [
+      "<p> 1,33%</p>",
+      "<p>2,56%</p>",
+      "<p>2,63%</p>",
+      "<p>5,23%</p>",
+      "<p>6,6%</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "7",
+    "bacaan_soal": "<p>Banyak masalah yang terdapat pada perbankan, baik internal maupun eksternal. Salah satu masalah eksternal diantaranya kredit macet. Jika tidak segera diatasi, dikhawatirkan kerugian perbankan akan semakin besar.</p> <p> Cara yang paling tepat yang dilakukan agar masalah tersebut tidak terulang kembali adalah ….</p>",
+    "topik_soal": "",
+    "opsi_jawaban": [
+      "<p>memperhatikan perencanaan yang telah dibuat sebagai panduan kegiatan perbankan</p>",
+      "<p>meningkatkan transparansi, sistem pengendalian, audit, dan manajemen risiko perbankanx</p>",
+      "<p>menyerahkan penyelesaian masalah kepada pemerintah melalui Otoritas Jasa Keuangan</p>",
+      "<p>melakukan kerjasama dengan aparat berwenang untuk melakukan penindakan secara hukum</p>",
+      "<p>memperketat aturan dalam pemberian kredit dan memberlakukan sanksi bagi yang melanggar</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "13",
+    "bacaan_soal": "<p>Pada akhir tahun 2024, inflasi di Indonesia mulai menunjukkan tren peningkatan yang cukup signifikan. Untuk merespons hal tersebut, Bank Indonesia memutuskan menaikkan suku bunga acuan (BI Rate). Kebijakan ini diambil agar masyarakat mengurangi konsumsi dan menahan laju inflasi.</p> <p>Berdasarkan ilustrasi di atas, Bank Indonesia sedang menjalankan fungsi sebagai ....</p>",
+    "topik_soal": "Mengidentifikasi peran bank sentral dan menganalisis kebijakan moneter.",
+    "opsi_jawaban": [
+      "<p>penyelamat likuiditas bank</p>",
+      "<p>pengawasan sistem keuangan</p>",
+      "<p>penjaga stabilitas sistem pembayaran</p>",
+      "<p>pelaksana kebijakan moneter</p>",
+      "<p>pengelola cadangan devisa</p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "14",
+    "bacaan_soal": "<p>Selama tiga bulan pertama tahun 2024, ekspor Indonesia turun 15% karena permintaan dunia terhadap komoditas utama seperti batu bara dan minyak sawit menurun. Sementara itu, impor barang konsumsi naik 10%. Akibatnya, neraca perdagangan Indonesia mengalami defisit sebesar USD 1,2 miliar. Pemerintah berencana mengambil langkah strategis untuk meningkatkan ekspor dan mengendalikan impor.</p> <p>Berdasarkan informasi, kebijakan apa yang dapat diterapkan pemerintah untuk memperbaiki neraca perdagangan tersebut</p>",
+    "topik_soal": "Menganalisis kerja sama ekonomi dan perdagangan internasional.",
+    "opsi_jawaban": [
+      "<p>Memberikan insentif ekspor untuk sektor industri strategis dan mengenakan tarif tinggi untuk semua barang impor.</p>",
+      "<p>Meningkatkan ekspor produk manufaktur dan mengurangi ketergantungan pada ekspor komoditas mentah.</p>",
+      "<p>Menurunkan suku bunga agar masyarakat lebih konsumtif sehingga meningkatkan impor.</p>",
+      "<p>Meningkatkan belanja negara produk manufaktur agar mendorong lebih banyak konsumsi barang impor.</p>",
+      "<p>Menghentikan semua impor barang modal untuk mengurangi pengeluaran devisa.</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "15",
+    "bacaan_soal": "<p>Berikut adalah data keuangan PT Sejahtera Makmur per 31 Desember 2023:</p> <p> <img alt=\"\" height=\"248\" src=\"https://pusmendik.kemdikbud.go.id/tka/cbt_images/78009_bb253ed760c8c5d3c378288e22db8b6c.png\" width=\"518\"/></p> <p>Berdasarkan data tersebut, berapakah laba bersih yang diperoleh perusahaan</p>",
+    "topik_soal": "Menerapkan persamaan dasar akuntansi dan laporan keuangan",
+    "opsi_jawaban": [
+      "<p>Rp50.000.000,00.</p>",
+      "<p>Rp58.000.000,00.</p>",
+      "<p>Rp65.000.000,00.</p>",
+      "<p>Rp72.000.000,00.</p>",
+      "<p>Rp80.000.000,00.</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "17",
+    "bacaan_soal": "<p>Berdasarkan data Badan Pusat Statistik, Indeks Harga Konsumen (IHK) di suatu wilayah tercatat sebesar 112 pada tahun 2022 dan meningkat menjadi 118 pada tahun 2023. Di sisi lain, IHK pada tahun 2024 naik kembali menjadi 125.</p> <p>Berdasarkan data tersebut, manakah pernyataan berikut yang paling tepat mengenai perkembangan laju inflasi dari tahun ke tahun</p>",
+    "topik_soal": "Mengevaluasi indeks harga dan inflasi",
+    "opsi_jawaban": [
+      "<p>Inflasi tahun 2023 lebih tinggi dibandingkan tahun 2024.</p>",
+      "<p>Inflasi tahun 2023 dan 2024 menunjukkan tren penurunan.</p>",
+      "<p>Inflasi tahun 2024 lebih tinggi dibandingkan tahun 2023.</p>",
+      "<p>Inflasi pada tahun 2023 mencapai tertinggi adalah 7%.</p>",
+      "<p>Tingkat inflasi tahun 2024 yaitu 5% lebih rendah dari tahun sebelumnya.</p>"
+    ],
+    "jawaban_benar": "C"
+  }
+]
