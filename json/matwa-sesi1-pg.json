@@ -1,0 +1,287 @@
+[
+  {
+    "nomor_soal": "1",
+    "bacaan_soal": "<p>Perhatikan gambar berikut:</p><p style=\"text-align: center;\">Gambar menunjukkan segitiga besar ABC dengan sebuah garis sejajar di dalamnya yang memotong sisi AC dan BC. Garis sejajar tersebut membentuk segitiga kecil di bagian atas, dengan sisi sejajar dasar ditandai sebagai 'de'.</p><p style=\"text-align: justify;\">Berdasarkan gambar tersebut, tentukan pasangan sudut yang memiliki besar sudut yang sama.</p>",
+    "topik_soal": "kesebangunan segitiga (geometri)",
+    "opsi_jawaban": [
+      "<p>∠CAB = ∠DCE</p>",
+      "<p>∠ABC = ∠CED</p>",
+      "<p>∠ACB = ∠ADC</p>",
+      "<p>∠CAB = ∠ECD</p>",
+      "<p>∠CAB = ∠EDC</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "2",
+    "bacaan_soal": "<p>Adib baru saja merayakan wisuda kelulusannya. Ia mendapat banyak hadiah, salah satunya adalah perhiasan emas. Agar perhiasan itu tersimpan dengan aman, Adib membuat sebuah kotak kayu berbentuk balok seperti pada gambar berikut:</p><p style=\"text-align: center;\">Gambar menunjukkan sebuah kotak kayu berbentuk balok dengan tutup di bagian atas yang dapat dibuka. Titik-titik sudut balok diberi nama A, B, C, D di bagian bawah dan E, F, G, H di bagian atas.</p><p style=\"text-align: justify;\">Di bagian dalam kotak, Adib menempelkan kertas karton berbentuk persegi panjang pada sisi ABCD. Ia juga ingin menghias bagian tutup kotak dengan kertas karton yang kongruen dengan sisi ABCD. Berdasarkan gambar tersebut, sisi tutup kotak yang kongruen dengan sisi ABCD adalah ....</p>",
+    "topik_soal": "bangun ruang sisi datar (balok dan kongruensi bangun)",
+    "opsi_jawaban": [
+      "<p>EFGH</p>",
+      "<p>ABEF</p>",
+      "<p>BCFG</p>",
+      "<p>CDHG</p>",
+      "<p>ADHE</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "3",
+    "bacaan_soal": "<p>Sebuah tiang setinggi 10 meter terletak 15 meter di depan sebuah bangunan. Seseorang berdiri di suatu titik A di seberang sehingga orang tersebut dapat melihat puncak tiang dan puncak bangunan pada garis pandang yang sama. Orang tersebut mencatat bahwa sudut elevasi ke puncak tiang adalah 30°, dan sudut elevasi ke puncak bangunan adalah 45°. Tentukan tinggi bangunan tersebut.</p><p style=\"text-align: center;\">Gambar menunjukkan titik A di sebelah kiri, tiang di tengah dengan tinggi 10 m, dan bangunan di kanan dengan tinggi yang belum diketahui. Garis pandang dari titik A menuju puncak tiang dan puncak bangunan membentuk dua segitiga siku-siku yang bersebelahan.</p>",
+    "topik_soal": "trigonometri (perbandingan sudut elevasi dan depresi)",
+    "opsi_jawaban": [
+      "<p>10 + 5√3 meter</p>",
+      "<p>10 + 15√3 meter</p>",
+      "<p>10 + 5/√3 meter</p>",
+      "<p>10 + 15/√3 meter</p>",
+      "<p>15 + 10√3 meter</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "4",
+    "bacaan_soal": "<p>Di sebuah tempat wisata terdapat sebuah permainan perosotan pelangi yang sangat populer. Panjang dan bentuk perosotan digambarkan dalam grafik berikut:</p><p style='text-align: center;'>Gambar menunjukkan grafik dengan sumbu horizontal sebagai jarak (meter) dan sumbu vertikal sebagai ketinggian (meter). Titik awal berada pada ketinggian 24 meter di jarak 0 meter, kemudian menurun ke 12 meter pada jarak 2 meter, lalu terus menurun hingga mencapai tanah (0 meter) pada jarak 6 meter.</p><p style='text-align: justify;'>Berapakah kemiringan rata-rata perosotan tersebut?</p>",
+    "topik_soal": "fungsi linear dan gradien (kemiringan garis lurus)",
+    "opsi_jawaban": [
+      "<p>-3</p>",
+      "<p>-4</p>",
+      "<p>-6</p>",
+      "<p>-8</p>",
+      "<p>-12</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "5",
+    "bacaan_soal": "<p>Ibu Irma mempunyai ruang ganti yang berukuran 8 m × 6 m × 4 m. Ibu Irma berencana memasang gantungan baju seperti gambar berikut dengan menggunakan tiang.</p><p style='text-align: center;'>Gambar menunjukkan sebuah ruangan berbentuk balok dengan panjang 8 meter, lebar 6 meter, dan tinggi 4 meter. Di salah satu sudut atas ruangan terdapat tiang gantungan baju yang dipasang miring dari sudut kiri atas ke sudut kanan bawah atap miring. Atap miring tersebut memiliki tinggi berbeda: sisi kiri 3 meter dan sisi kanan 4 meter, dengan jarak horizontal antar sisi miring 4 meter.</p><p style='text-align: justify;'>Hitunglah panjang tiang yang dibutuhkan Ibu Irma agar dapat membuat gantungan baju seperti yang tampak pada gambar tersebut.</p>",
+    "topik_soal": "geometri ruang (teorema Pythagoras dalam bangun ruang)",
+    "opsi_jawaban": [
+      "<p>5 meter</p>",
+      "<p>6 meter</p>",
+      "<p>7 meter</p>",
+      "<p>8 meter</p>",
+      "<p>9 meter</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "6",
+    "bacaan_soal": "<p>Sinta menjual berbagai jenis suvenir. Ia mendapatkan pesanan 100 suvenir berupa kipas. Ia menggambar sekeliling kipasnya dengan menggunakan pita berwarna merah. Berikut adalah desain bentuk kipas yang akan dibuat oleh Sinta.</p><p style='text-align: center;'>Gambar menunjukkan dua bagian: (1) bentuk kipas yang terdiri atas beberapa juring lingkaran yang membentuk setengah lingkaran dengan tepi berwarna merah, dan (2) detail ukuran berupa satu segitiga lalu diikuti setengah lingkaran dengan panjang diameter 12 cm dan tinggi segitiga 8 cm.</p><p style='text-align: justify;'>Hitunglah panjang pita yang dibutuhkan Sinta untuk menghias satu kipas! (<a href=\"https://www.imghippo.com/i/unqK1623Hs.png\">Link Gambar</a></p>",
+    "topik_soal": "bangun datar (lingkaran dan juring lingkaran)",
+    "opsi_jawaban": [
+      "<p>104,2 cm</p>",
+      "<p>114,2 cm</p>",
+      "<p>124,2 cm</p>",
+      "<p>134,2 cm</p>",
+      "<p>144,2 cm</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "7",
+    "bacaan_soal": "<p>Perhatikan permasalahan dalam kotak berikut!</p><p style='text-align: justify;'>Suatu trapesium siku-siku dengan tinggi 4 cm dan luas 18 cm². Diketahui panjang sisi sejajar (dalam cm) berupa bilangan celah a dan b dengan a &gt; b.</p><p style='text-align: justify;'>Apakah keliling trapesium tersebut kurang dari 19 cm?</p><p style='text-align: justify;'>Pernyataan:</p><p>(1) a - b = 3</p><p>(2) b = 6</p><p style='text-align: justify;'>Manakah pernyataan (1) dan (2) berikut yang cukup untuk menjawab pertanyaan di atas?</p>",
+    "topik_soal": "bangun datar (trapesium dan penerapan luas serta keliling)",
+    "opsi_jawaban": [
+      "<p>Pernyataan (1) saja cukup untuk menjawab pertanyaan, tetapi pernyataan (2) saja tidak cukup.</p>",
+      "<p>Pernyataan (2) saja cukup untuk menjawab pertanyaan, tetapi pernyataan (1) saja tidak cukup.</p>",
+      "<p>Kedua pernyataan (1) dan (2) cukup untuk menjawab pertanyaan secara bersama-sama.</p>",
+      "<p>Setiap pernyataan (1) atau (2) cukup untuk menjawab pertanyaan.</p>",
+      "<p>Kedua pernyataan (1) dan (2) tidak cukup untuk menjawab pertanyaan.</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "8",
+    "bacaan_soal": "<p>Ibu Ratna sedang merapikan barang-barang yang ada di rumah. Ia ingin menata semua sepatu agar terlihat lebih rapi. Ibu Ratna membeli lemari dan kotak khusus sepatu yang ukurannya seperti pada gambar berikut.</p><p style='text-align: center;'>Gambar menunjukkan dua benda: (1) lemari berbentuk balok dengan ukuran panjang 180 cm, lebar 60 cm, dan tinggi 200 cm; (2) kotak sepatu berbentuk balok dengan ukuran panjang 30 cm, lebar 20 cm, dan tinggi 20 cm.</p><p style='text-align: justify;'>Jika seluruh ruang dalam lemari akan digunakan untuk menyimpan kotak sepatu yang disusun rapat tanpa sisa ruang, maka banyak kotak sepatu yang dapat dimasukkan ke dalam lemari adalah ....</p>",
+    "topik_soal": "geometri ruang (volume dan perbandingan volume bangun ruang)",
+    "opsi_jawaban": [
+      "<p>100 kotak</p>",
+      "<p>140 kotak</p>",
+      "<p>180 kotak</p>",
+      "<p>220 kotak</p>",
+      "<p>260 kotak</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "9",
+    "bacaan_soal": "<p>Ibu akan membuat lemang. Lemang adalah makanan dari beras ketan yang dicampur dengan santan dan rempah-rempah, lalu digulung menggunakan selembar daun pisang dan dimasak di dalam seruas bambu. Berikut adalah bentuk dan ukuran lemang yang akan dibuat oleh Ibu:</p><p style='text-align: center;'>Gambar menunjukkan silinder berwarna hijau dengan tinggi 20 cm dan diameter 7 cm.</p><p style='text-align: justify;'>Ibu memiliki sebatang bambu yang panjangnya 45 cm dan berdiameter 21 cm. Jika semua adonan lemang yang dibuat akan dimasukkan ke dalam bambu tersebut secara penuh, maka banyak lemang yang dapat dibuat oleh Ibu adalah ....</p>",
+    "topik_soal": "geometri ruang (volume tabung dan perbandingan volume)",
+    "opsi_jawaban": [
+      "<p>8 buah</p>",
+      "<p>13 buah</p>",
+      "<p>14 buah</p>",
+      "<p>15 buah</p>",
+      "<p>20 buah</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "10",
+    "bacaan_soal": "<p>Perhatikan gambar berikut!</p><p style=\"text-align: justify;\">Gambar menunjukkan dua segitiga yang saling berpotongan. Segitiga bagian atas memiliki sudut siku-siku di pojok kanan atas dengan panjang sisi tegak 8 cm. Sebuah garis diagonal menghubungkan titik pojok kiri atas ke pojok kanan bawah dan memotong sisi miring segitiga bawah sehingga terbentuk dua ruas sama panjang. Panjang salah satu ruas diagonal adalah 4 cm.</p><p style=\"text-align: justify;\">Berdasarkan gambar tersebut, tentukan pernyataan yang benar mengenai hubungan antara segitiga-segitiga pada gambar!</p>",
+    "topik_soal": "geometri - kesebangunan dan kekongruenan segitiga",
+    "opsi_jawaban": [
+      "<p>Segitiga ABC kongruen dengan segitiga DBC</p>",
+      "<p>Segitiga ABC sebangun dengan segitiga DBC</p>",
+      "<p>Segitiga ABC dan DBC memiliki sisi-sisi yang sama panjang</p>",
+      "<p>Segitiga ABC dan DBC memiliki luas yang sama</p>",
+      "<p>Segitiga ABC tidak sebangun dengan segitiga DBC</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "11",
+    "bacaan_soal": "<p>Sebuah tim pengembang aplikasi di sebuah startup teknologi terdiri atas 4 programmer (P1, P2, P3, P4) dan 3 desainer (D1, D2, D3). Pimpinan startup tersebut ingin membentuk tim rapat pengembangan aplikasi beranggotakan 4 orang, sehingga mereka perlu menjadwalkan 4 pertemuan mingguan.</p><p style='text-align: justify;'>Setiap pertemuan harus dihadiri oleh minimal satu desainer dan satu programmer. Tidak ada anggota yang boleh menghadiri dua pertemuan sekaligus. Berapa banyak cara tim dapat mengatur kombinasi kehadiran dalam keempat pertemuan tersebut?</p><p><em>Gambar di bawah menunjukkan ilustrasi suasana rapat pengembang aplikasi di ruang kerja.</em></p>",
+    "topik_soal": "kombinatorika - aturan kombinasi dan permutasi",
+    "opsi_jawaban": [
+      "<p>24 cara</p>",
+      "<p>36 cara</p>",
+      "<p>48 cara</p>",
+      "<p>72 cara</p>",
+      "<p>Soal ini tidak mungkin untuk diselesaikan</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "12",
+    "bacaan_soal": "<p>Sebuah toko elektronik di pusat kota baru saja buka. Toko tersebut menyediakan promo harga spesial selama lima hari pertama. Berikut adalah data penjualan barang di toko elektronik tersebut selama lima hari pertama:</p><table border='1' style='border-collapse:collapse; text-align:center;'><tr><th>Hari</th><th>Banyak Barang Terjual</th></tr><tr><td>Hari Pertama</td><td>156</td></tr><tr><td>Hari Kedua</td><td>126</td></tr><tr><td>Hari Ketiga</td><td>...</td></tr><tr><td>Hari Keempat</td><td>133</td></tr><tr><td>Hari Kelima</td><td>...</td></tr></table><p>Total rata-rata penjualan barang per hari dalam lima hari pertama tersebut adalah 131 unit. Penjualan paling sedikit terjadi pada hari ketiga, sedangkan penjualan terbanyak terjadi pada hari kelima. Namun pada hari kedua, penjualan barang lebih sedikit daripada hari keempat.</p><p>Berdasarkan informasi tersebut, tentukan pernyataan berikut yang <strong>mungkin</strong> atau <strong>tidak mungkin</strong> terkait banyak barang yang terjual di hari-hari tersebut.</p><table border='1' style='border-collapse:collapse;'><tr><th>Pernyataan</th><th>Mungkin</th><th>Tidak Mungkin</th></tr><tr><td>1. Hari kelima menjual lebih banyak dibandingkan hari ketiga.</td><td></td><td></td></tr><tr><td>2. Penjualan hari ketiga kurang dari 100 unit.</td><td></td><td></td></tr><tr><td>3. Selisih penjualan hari kelima dengan hari pertama kurang dari 30 unit.</td><td></td><td></td></tr></table>",
+    "topik_soal": "statistika - data, tabel, dan rata-rata",
+    "opsi_jawaban": [
+      "<p>Pernyataan 1 dan 2 benar</p>",
+      "<p>Pernyataan 1 dan 3 benar</p>",
+      "<p>Pernyataan 2 dan 3 benar</p>",
+      "<p>Hanya pernyataan 1 yang benar</p>",
+      "<p>Semua pernyataan benar</p>"
+    ],
+    "jawaban_benar": "E"
+  },
+  {
+    "nomor_soal": "13",
+    "bacaan_soal": "<p>Dalam rangka acara seminar nasional, panitia menyediakan <i>doorprize</i> untuk peserta yang hadir dan mengumpulkan kartu nama pada saat registrasi. Terdapat 50 kartu nama yang terkumpul. Hadiah <i>doorprize</i> dibagi menjadi dua kategori, yaitu hadiah buku bacaan dan hadiah tambahan. Untuk hadiah buku bacaan, panitia menyediakan 15 buku fiksi populer dan 10 buku motivasi remaja. Sementara itu, untuk hadiah tambahan, panitia menyediakan 8 jam tangan, 6 botol tumbler, dan sisanya adalah baju kaos.</p><p>Setelah semua kartu nama dimasukkan ke dalam kotak undian, panitia mengambil satu kartu nama secara acak. Berapakah peluang seorang peserta yang terpilih akan mendapatkan hadiah berupa baju kaos?</p>",
+    "topik_soal": "peluang - peluang kejadian sederhana",
+    "opsi_jawaban": [
+      "<p>11/50</p>",
+      "<p>12/50</p>",
+      "<p>13/50</p>",
+      "<p>14/50</p>",
+      "<p>29/50</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "14",
+    "bacaan_soal": "<p>Sekolah Mandala sedang merayakan ulang tahun dan mengadakan lomba gerak jalan. Terdapat undian sebanyak 80 nomor dengan nomor 1–80. Setiap siswa yang mendapatkan nomor undian yang merupakan kelipatan dari angka tertentu akan mendapatkan hadiah tertentu, seperti terlihat pada tabel berikut:</p><p><b>Gambar:</b> Terdapat empat gambar hadiah, masing-masing dengan keterangan berikut:<br>• Botol (kelipatan 3)<br>• Kotak pensil (kelipatan 4)<br>• Headset (kelipatan 7)<br>• Uang (kelipatan 11)</p><p>Dalam perayaan ini, setiap siswa berkesempatan memperoleh <i>Hadiah Kombinasi</i>, yaitu jika siswa mendapat nomor undian yang merupakan kelipatan dari beberapa angka dalam daftar hadiah, maka siswa tersebut akan memperoleh semua hadiah yang termasuk dalam kelipatan tersebut.</p><p>Berikut adalah hasil undian yang sudah diambil:</p><div style=\"text-align:center;\"><b>Daftar hasil undian:</b><br>27 orang tidak mendapat hadiah apa pun<br>12 orang mendapat botol saja<br>8 orang mendapat kotak pensil saja<br>5 orang mendapat uang saja<br>3 orang mendapat uang dan kotak pensil<br>1 orang mendapat headset dan uang</div><p>Berdasarkan data di atas, tentukan banyak siswa yang mendapat hadiah headset saja!</p>",
+    "topik_soal": "himpunan - irisan dan gabungan himpunan",
+    "opsi_jawaban": [
+      "<p>2 orang</p>",
+      "<p>3 orang</p>",
+      "<p>4 orang</p>",
+      "<p>5 orang</p>",
+      "<p>6 orang</p>"
+    ],
+    "jawaban_benar": "D"
+  },
+  {
+    "nomor_soal": "15",
+    "bacaan_soal": "<p>Perhatikan gambar tiga paket komputer berikut:</p><p style=\"text-align: justify;\">• <b>Paket Gamer</b> berisi: 1 CPU, 2 modul RAM 8GB, dan 1 SSD 512GB. Harga paket = Rp20.000.000,00.<br>• <b>Paket Desainer</b> berisi: 1 CPU, 1 modul RAM 8GB, dan 2 SSD 512GB. Harga paket = Rp18.000.000,00.<br>• <b>Paket Kantor</b> berisi: 1 CPU dan 1 modul RAM 8GB. Harga paket = Rp12.000.000,00.</p><p style=\"text-align: justify;\">Jika setiap komponen memiliki harga yang sama pada semua paket, tentukan harga masing-masing komponen: CPU, RAM 8GB, dan SSD 512GB. (Gunakan $x$ untuk harga CPU, $y$ untuk harga RAM 8GB, dan $z$ untuk harga SSD 512GB.)</p><p style=\"text-align: justify;\">Persamaan yang terbentuk adalah:<br>$x+2y+z=20\\,000\\,000$<br>$x+y+2z=18\\,000\\,000$<br>$x+y=12\\,000\\,000$</p>",
+    "topik_soal": "sistem persamaan linear tiga variabel (SPLTV)",
+    "opsi_jawaban": [
+      "<p>CPU = Rp7.000.000; RAM 8GB = Rp5.000.000; SSD 512GB = Rp3.000.000</p>",
+      "<p>CPU = Rp6.000.000; RAM 8GB = Rp4.000.000; SSD 512GB = Rp4.000.000</p>",
+      "<p>CPU = Rp8.000.000; RAM 8GB = Rp4.000.000; SSD 512GB = Rp2.000.000</p>",
+      "<p>CPU = Rp5.000.000; RAM 8GB = Rp6.000.000; SSD 512GB = Rp3.000.000</p>",
+      "<p>CPU = Rp7.000.000; RAM 8GB = Rp4.000.000; SSD 512GB = Rp4.000.000</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "16",
+    "bacaan_soal": "<p style=\"text-align: justify;\">Raka ingin mengajak teman-temannya makan bersama di warung makan <i>Sobek Ayam</i>. Warung tersebut menawarkan dua jenis paket makanan ayam yaitu <b>Paket Mantap</b> dan <b>Paket Wob</b>. Paket Mantap berisi 5 potong ayam dan 6 gelas es teh, sedangkan Paket Wob berisi 5 potong ayam dan 3 gelas es teh. Raka ingin memesan setidaknya 40 potong ayam dan 30 gelas es teh untuk teman-temannya.</p><p style=\"text-align: justify;\">Jika banyak Paket Mantap yang dipesan adalah $x$ dan banyak Paket Wob yang dipesan adalah $y$, maka sistem pertidaksamaan linear yang menyatakan situasi tersebut adalah ....</p><p style=\"text-align: center;\">Gambar menunjukkan dua paket makanan: <br>• Paket Mantap terdiri atas 5 ayam dan 6 es teh.<br>• Paket Wob terdiri atas 5 ayam dan 3 es teh.</p>",
+    "topik_soal": "sistem pertidaksamaan linear dua variabel (SPLDV)",
+    "opsi_jawaban": [
+      "<p>$5x + 5y \\ge 40$ dan $6x + 3y \\ge 30$</p>",
+      "<p>$5x + 5y \\le 40$ dan $6x + 3y \\le 30$</p>",
+      "<p>$5x + 6y \\ge 40$ dan $5x + 3y \\ge 30$</p>",
+      "<p>$5x + 5y = 40$ dan $6x + 3y = 30$</p>",
+      "<p>$5x + 5y \\ge 30$ dan $6x + 3y \\ge 40$</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "17",
+    "bacaan_soal": "<p>Seorang pasien disuntik obat bius pada pukul 08.00 dengan kadar awal 100 mg zat aktif di dalam tubuh. Obat tersebut mengalami penurunan kadar zat aktif sebanyak 20% setiap 30 menit. Diketahui bahwa:</p><ul><li>Pasien mulai merasa tidak nyaman jika kadar zat aktif di bawah 45 mg.</li><li>Pasien mulai merasa nyeri jika kadar zat aktif di bawah 25 mg.</li></ul><p>Pada pukul berapa saja pasien berada dalam kondisi tidak nyaman tetapi belum merasakan nyeri?</p><p><em>Catatan: soal disertai tabel pilihan waktu dengan beberapa opsi jawaban.</em></p>",
+    "topik_soal": "eksponen dan logaritma",
+    "opsi_jawaban": [
+      "<p>10.00–11.00</p>",
+      "<p>11.00-12.00</p>",
+      "<p>12.00-13.00</p>",
+      "<p>13.00-14.00</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "18",
+    "bacaan_soal": "<p>Wulan membuka usaha kecil menjual kue lapis legit di kampungnya menjelang Lebaran. Ia memutuskan untuk menaikkan jumlah produksi kue sebanyak 3 loyang lebih banyak dari hari sebelumnya. Pada hari pertama, ia membuat 10 loyang. Jika pola ini terus berlangsung selama 7 hari, maka berapa loyang kue lapis yang dibuat Wulan pada hari ke-6?</p>",
+    "topik_soal": "barisan dan deret aritmetika",
+    "opsi_jawaban": [
+      "<p>16 loyang</p>",
+      "<p>19 loyang</p>",
+      "<p>22 loyang</p>",
+      "<p>25 loyang</p>",
+      "<p>28 loyang</p>"
+    ],
+    "jawaban_benar": "B"
+  },
+  {
+    "nomor_soal": "19",
+    "bacaan_soal": "<p>Pada bulan Maret, Toko Alat Olahraga Sehat memberikan potongan harga kepada pelanggan untuk setiap pembelian dalam rangka memperingati hari ulang tahun toko. Besar potongan harga yang diberikan dapat dinyatakan dengan rumus:</p><p>$y = 0{,}8x - 5000$, dengan y adalah harga setelah diskon dan x adalah harga awal barang.</p><p>Selain itu, ada tambahan diskon bagi pelajar yang dinyatakan dengan rumus sebagai berikut:</p><p>$g(y) = 0{,}8y$ (kelahiran bulan Maret)<br>$g(y) = 0{,}9y$ (kelahiran selain Maret)</p><p>dengan $g(y)$ harga akhir setelah diberikan tambahan diskon.</p><p>Andre bersama tiga orang temannya adalah pelajar yang mengunjungi toko tersebut pada bulan Maret. Mereka ingin membeli raket seharga Rp250.000,00 dan sepatu seharga Rp500.000,00.</p><p>Berikut adalah bulan lahir dan uang yang mereka miliki:</p><table border='1' cellpadding='4'><tr><th>Nama</th><th>Bulan lahir</th><th>Uang yang dimiliki</th></tr><tr><td>Andre</td><td>Maret</td><td>Rp180.000,00</td></tr><tr><td>Budi</td><td>April</td><td>Rp210.000,00</td></tr><tr><td>Diko</td><td>Maret</td><td>Rp400.000,00</td></tr><tr><td>Roni</td><td>Juli</td><td>Rp350.000,00</td></tr></table><p>Siapakah yang dapat membeli raket beserta tas?</p>",
+    "topik_soal": "fungsi komposisi dan invers",
+    "opsi_jawaban": [
+      "<p>Andre dan Diko</p>",
+      "<p>Budi dan Andre</p>",
+      "<p>Diko dan Roni</p>",
+      "<p>Budi, Diko, dan Roni</p>",
+      "<p>Semua salah</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "20",
+    "bacaan_soal": "<p>Diberikan fungsi rasional g(x) = (2x - 1)/(x + 5).</p><p>Berapakah nilai dari invers g'(3)?</p>",
+    "topik_soal": "fungsi invers (fungsi rasional)",
+    "opsi_jawaban": [
+      "<p>-16</p>",
+      "<p>-6</p>",
+      "<p>1/11</p>",
+      "<p>5/8</p>",
+      "<p>14/5</p>"
+    ],
+    "jawaban_benar": "A"
+  },
+  {
+    "nomor_soal": "21",
+    "bacaan_soal": "<p>Bentuk sederhana dari $\\dfrac{4^{1} \\times 27^{\\frac{1}{3}} \\times 16^{\\frac{1}{2}}}{9^{\\frac{1}{2}}}$ adalah .... (Latex: <a href=\"https://pictotex.com/b87a179e\">Click Here</a>)</p>",
+    "topik_soal": "eksponen dan akar (sifat-sifat eksponen)",
+    "opsi_jawaban": [
+      "<p>$2 x 3^{1}$</p>",
+      "<p>$2^{4} x 3^{1}$</p>",
+      "<p>$2^{4}$</p>",
+      "<p>$2^{2} x 3$</p>",
+      "<p>$2^{2} x 3^{-1}$</p>"
+    ],
+    "jawaban_benar": "C"
+  },
+  {
+    "nomor_soal": "22",
+    "bacaan_soal": "<p>Diberikan tiga himpunan bilangan sebagai berikut:</p> <p>$D = \\{x \\mid 5 < x < 15, \\; x \\text{ bilangan ganjil}\\}$</p> <p>$E = \\{x \\mid 10 \\leq x \\leq 18, \\; x \\text{ bilangan kelipatan 4}\\}$</p> <p>$F = \\{x \\mid 8 < x < 12, \\; x \\text{ bilangan komposit}\\}$</p> <p>Tentukan himpunan-himpunan anggota bilangan dari $(D \\cup E) \\cap F$ adalah ....</p>",
+    "topik_soal": "himpunan (operasi pada himpunan)",
+    "opsi_jawaban": [
+      "<p>{9, 10, 11}</p>",
+      "<p>{9, 10}</p>",
+      "<p>{9}</p>",
+      "<p>{10, 11}</p>",
+      "<p>{11}</p>"
+    ],
+    "jawaban_benar": "C"
+  }
+]
