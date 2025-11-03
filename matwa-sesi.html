@@ -91,8 +91,8 @@
     <script>
         const CONFIG = {
             EXAM_DURATION_MINUTES: 50,
-            JSON_PATH: 'json/matwa-sesi1-pg.json',  // Hanya pilihan ganda
-            PASSCODE: 'BLUECHONGYUN'  // Passcode untuk akses ujian
+            JSON_PATH: 'json/matwa-pg.json',  // Hanya pilihan ganda
+            PASSCODES: ['BLUECHONGYUN', 'REDDILUC', 'GREENALHAITHAM', 'BLACKXIAO']  // Array passcode yang valid
         };
     </script>
 
@@ -277,7 +277,7 @@
             const error = document.getElementById('passcode-error');
             const passcode = input.value.trim();
             
-            if (passcode === CONFIG.PASSCODE) {
+            if (CONFIG.PASSCODES.includes(passcode)) {
                 document.getElementById('passcode-screen').classList.add('hidden');
                 document.getElementById('intro-screen').classList.remove('hidden');
                 error.classList.add('hidden');
